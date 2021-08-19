@@ -1,2 +1,2 @@
-# Projects I have completed from freecodecamp.
-
+# freeCodeCamp projects
+Projects that I have completed from freeCodeCamp
