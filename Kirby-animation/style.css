@@ -1,0 +1,233 @@
+.kirby {
+    background: #C3B1E1;
+    height: 100vh;
+    display: grid;
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;   
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+    
+    
+}
+
+.body {
+    width: 330px;
+    height: 330px;
+    border-radius: 50%;
+    background: #ffa6c9;
+    z-index: 1;
+}
+
+.left-arm {
+    width: 110px;
+    height: 210px; 
+    border-radius: 2em;
+    transform: rotate(-40deg);
+    margin-left: 300px;
+    margin-top: 80px;
+    position: absolute;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 50px;
+    background: #ffa6c9;
+    z-index: -1;
+    box-shadow: 0px 10px 29px -5px rgba(30, 30, 10, 0.25);
+}
+
+.right-arm {
+    width: 105px;
+    height: 220px;
+    border-radius: 2em;
+    transform: rotate(-240deg);
+    margin-right: 290px;
+    margin-top: 35px;
+    position: absolute;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 100px;
+    background: #ffa6c9;
+    z-index: -1;
+    animation-name: kirby-wave;
+    animation-duration: .8s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    box-shadow: 0px 10px 29px -5px rgba(30, 30, 10, 0.25);
+}
+@media only screen and (max-height: 600px) {
+  .right-arm {
+    margin-top: 50px;
+  }
+}
+
+@keyframes kirby-wave {
+    0% {
+      top: 15vh;		   
+    } 
+    50% {
+      top: 20px;
+    }
+    100% {
+      top: 15vh;
+  }
+}
+
+.left-leg {
+    width: 100px;
+    height: 110px;
+    position: absolute;
+    background: #ff4747;
+    z-index: -1;
+    margin-top: 290px;
+    margin-bottom: 400px;
+    margin-right: 120px;
+    border-bottom-left-radius: 75px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0px 10px 29px -5px rgba(30, 30, 10, 0.55);
+}
+
+.right-leg {
+    width: 100px;
+    height: 110px;
+    position: absolute;
+    background: #ff4747;
+    z-index: -1;
+    margin-top: 290px;
+    margin-bottom: 400px;
+    margin-left: 190px;
+    transform: rotate(-25deg);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 75px;
+    box-shadow: 0px 10px 29px -5px rgba(30, 30, 10, 0.55);
+}
+
+
+.left-eye {
+    width: 45px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    margin-top: 50px;
+    margin-right: 105px;
+}
+
+.right-eye {
+    width: 45px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    margin-top: 50px;
+    margin-left: 105px;
+}
+
+.eyes {
+    display: flex;
+    justify-content: space-between;
+}
+.eyeShine {
+    width: 25px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    margin-top: 5px;
+    margin-left: 10px;
+    box-shadow: 0px 0px 5px 4px #282881;
+}
+
+.blueBottom {
+    width: 23px;
+    height: 35px;
+    border-radius: 50%;
+    background: linear-gradient(#00008b, #3232a2, #5a5ab4);
+    margin-left: 10.9px;
+    margin-top: 16px;
+    position: absolute;
+}
+
+.mouth {
+    width: 42px;
+    height: 33px;
+    margin-top: 23px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 13% 13% 50% 50%;
+    background: #d80a3e;
+}
+
+.tongue {
+    width: 20px;
+    height: 8px;
+    margin-left: 11.2px;
+    position: absolute;
+    margin-top: 23px;
+    background: #ac0831;
+    border-radius: 13% 13% 50% 50%;
+}
+
+.right-cheek {
+    width: 50px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 38px;
+    margin-top: 1px;
+    background: #ff8dba;
+    transform: rotate(15deg);
+    box-shadow: 1px 1px 5px 10px #ff8dba;
+}
+
+.left-cheek {
+    width: 50px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 243px;
+    margin-top: 1px;
+    background: #ff8dba;
+    transform: rotate(-15deg);
+    box-shadow: 1px 1px 5px 10px #ff8dba;
+}
+
+.heart {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    background: #ffa6f6;
+    transform: rotate(225deg);
+    margin-top: 200px;
+    margin-left: 470px;
+    z-index: 9;
+    animation-name: beat;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+}
+
+.heart::after {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #ffa6f6;
+    margin-top: 35px;
+}
+
+.heart::before {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #ffa6f6;
+    margin-left: 35px;
+}
+
+@keyframes beat {
+    0% {
+      transform: scale(1) rotate(225deg); /* Rotate because I set the degrees of the shape to 225 */
+    }
+    50% {
+      transform: scale(0.7) rotate(225deg);
+    }
+  }
