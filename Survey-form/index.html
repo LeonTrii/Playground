@@ -25,7 +25,11 @@
         <label for="age">3). Enter your age:</label>
         <input type="number" class="form-control textBox" placeholder="Enter your age..">
         <small class="form-text"></small>
-        <p class="selectGender">4). What is your gender?</p>
+        <div class="form-group">
+          <label class="textBox" for="whatDoYouEnjoy">4). What do you enjoy doing?</label>
+          <textarea class="form-control funText" id="fun" placeholder="I like to.."></textarea>
+        </div>
+        <p class="selectGender">5). What is your gender?</p>
         <select class="form-select" aria-label="Default select example">
             <option selected>Select gender</option>
             <option value="female">Female</option>
@@ -33,17 +37,14 @@
             <option value="nonBinary">Non-binary</option>
             <option value="ratherNotSay">Rather not say</option>
           </select>
-          <p class="rickRoll textBox">5). Do you enjoy being Rick Rolled?</p>
-        <select class="form-select" aria-label="Default select example">
+          <p class="rickRoll textBox">6). Do you enjoy being Rick Rolled?</p>
+        <select class="form-select rickBox" aria-label="Default select example">
             <option selected>Select your fondess over Rick Rolling</option>
             <option value="Yes">Yes</option>
             <option value="No">No</option>
             <option value="Occasionally">Occasionally</option>
           </select>
-          <div class="form-group">
-            <label class="textBox" for="whatDoYouEnjoy">6). What do you enjoy doing?</label>
-            <textarea class="form-control funText" id="fun" placeholder="I like to.."></textarea>
-          </div>
+  
           <div class="d-grid gap-2">
               
           <button onclick="location.href='https://youtu.be/QtBDL8EiNZo'" type="button" class="submitButton btn btn-success btn-lg btn-block">Submit</button>

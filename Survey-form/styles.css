@@ -82,6 +82,10 @@ body::before {
       margin: auto;
   }
 
+  .rickBox {
+    margin-bottom: 15px;
+  }
+
 @media only screen and (min-width: 1068px) {
     label {
         margin-right: 650px;
