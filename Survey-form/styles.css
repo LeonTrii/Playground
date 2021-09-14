@@ -60,6 +60,8 @@ body::before {
   label {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 3vw;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: 400px;
   }
 
@@ -72,10 +74,6 @@ body::before {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 3vw;
     margin-right: 350px;
-  }
-
-  .funText {
-    margin-bottom: 20px;
   }
 
   .submitButton {
