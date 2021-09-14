@@ -37,7 +37,7 @@
     margin-top: 40px;
     background-color: #FFFAEF;
     box-sizing: border-box;
-    margin-bottom: 120px;
+    margin-bottom: 140px;
 }
 
 body::before {
@@ -79,7 +79,7 @@ body::before {
   }
 
   .submitButton {
-      margin: auto;
+      margin-bottom: 20px;
   }
 
   .rickBox {
