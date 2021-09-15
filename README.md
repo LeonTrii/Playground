@@ -1,8 +1,8 @@
 # Small projects
-Small projects that I've completed.  
+Small projects that I've completed :D
 
-Kirby-animation: waving Kirby with a beating heart.
+Kirby-animation: waving Kirby with a beating heart on his left hand
 
-Product-landing-page: made up website with fake products.
+Product-landing-page: a made up website with fake products about finding spiders
 
-Survey-form: a Rick Roll upon submitting the form.
+Survey-form: a Rick Roll YouTube link upon submitting the form
