@@ -101,14 +101,23 @@ body::before {
 @media only screen and (max-width: 800px) {
     label {
         margin-right: 300px;
+        font-size: 4.5vw;
     }
 
     .selectGender {
         margin-right: 300px;
+        font-size: 4.5vw;
     }
 
     .rickRoll {
         margin-right: 250px;
+        font-size: 4.5vw;
+    }
+     #desc {
+       font-size: 5.5vw;
+  }
+     #id {
+        font-size: 5.5vw;
     }
 }  
 
@@ -123,4 +132,5 @@ body::before {
 
 .rickRoll {
     margin-top: 10px;
+}
 }
