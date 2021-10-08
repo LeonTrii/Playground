@@ -22,9 +22,9 @@ function countdown(year, month, day) {
 
 }
 
-window.alert("Enter a date to countdown! (Use numbers)");
-let yearPrompt = window.prompt("Enter the year.");
-let monthPrompt = window.prompt("Enter the month.")
-let dayPrompt = window.prompt("Enter the day.")
-setInterval(countdown, 1000, yearPrompt, monthPrompt, dayPrompt);
-countdown(yearPrompt, monthPrompt, dayPrompt);
+    window.alert("Enter a date to countdown! (Use numbers)");
+    let yearPrompt = window.prompt("Enter the year.");
+    let monthPrompt = window.prompt("Enter the month.")
+    let dayPrompt = window.prompt("Enter the day.")
+    setInterval(countdown, 1000, yearPrompt, monthPrompt, dayPrompt);
+    countdown(yearPrompt, monthPrompt, dayPrompt);
