@@ -1,10 +1,12 @@
 # Small projects
 Small projects that I've completed :D
 
-Frisk-and-Toriel: created to celebrate Deltarune Chapter 2. Although Frisk is not from Deltarune, I thought it was close enough.
+Countdown-timer: Three prompts will pop up in which you enter the year, month, and day. Afterwards, it counts down.
 
-Kirby-animation: waving Kirby with a beating heart on his left hand.
+Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is not from Deltarune, I thought it was close enough.
 
-Product-landing-page: a made up website with fake products about finding spiders. (Will update)
+Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
-Survey-form: a Rick Roll YouTube link upon submitting the form.
+Product-landing-page: A made up website with fake products about finding spiders. (Will update)
+
+Survey-form: A Rick Roll YouTube link upon submitting the form.
