@@ -9,4 +9,4 @@ Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
 Product-landing-page: A made up website with fake products about finding spiders. (Will update)
 
-Survey-form: A Rick Roll YouTube link upon submitting the form.
+Survey-form: Redirects you to a YouTube page with "Never Gonna Give You Up".
