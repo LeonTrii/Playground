@@ -1,7 +1,7 @@
 # Small projects
 Small projects that I've completed :D
 
-Countdown-timer: Three prompts will pop up in which you enter the year, month, and day. Afterwards, the three values will counts down to that date.
+Countdown-timer: Three prompts will pop up in which you enter the year, month, and day. Afterwards, the three values will count down to that date.
 
 Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is not from Deltarune, I thought it was close enough.
 
