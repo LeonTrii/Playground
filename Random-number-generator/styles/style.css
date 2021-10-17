@@ -10,7 +10,6 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-repeat: no-repeat;
 }
 
 #container {
@@ -23,6 +22,11 @@ body {
   padding: 30px;
   -webkit-box-shadow: 20px 15px 25px 6px #aec6cf;
           box-shadow: 20px 15px 25px 6px #aec6cf;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 #cardInside {
