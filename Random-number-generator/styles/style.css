@@ -77,8 +77,8 @@ body {
   margin-right: auto;
   padding-top: 38px;
   margin-top: 160px;
-  -webkit-box-shadow: -20px -20px #aec6cf;
-          box-shadow: -20px -20px #aec6cf;
+  -webkit-box-shadow: -12px -12px #aec6cf;
+          box-shadow: -12px -12px #aec6cf;
 }
 
 #result {
