@@ -9,6 +9,6 @@ Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
 Product-landing-page: A made up website with fake products about finding spiders. (Will update)
 
-Random-number-generator: Generates a number from the given inputs.
+Random-number-generator: Generates a number from the given inputs. Beware of the reset button..
 
 Survey-form: Redirects you to a YouTube page with "Never Gonna Give You Up".
