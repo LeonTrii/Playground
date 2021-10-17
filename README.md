@@ -11,4 +11,4 @@ Product-landing-page: A made up website with fake products about finding spiders
 
 Random-number-generator: Generates a number from the given inputs. Beware of the reset button..
 
-Survey-form: Redirects you to a YouTube page with "Never Gonna Give You Up".
+Survey-form: A survey form with simple question. Redirects you to a YouTube page with "Never Gonna Give You Up" upon submission.
