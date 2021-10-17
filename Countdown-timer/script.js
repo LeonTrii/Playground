@@ -22,7 +22,7 @@ function countdown(year, month, day) {
 
 }
 
-    window.alert("Enter a date to countdown! (Use numbers. To reset, refresh the page.)");
+    window.alert("Enter a date to countdown! (Use numerical digits. To reset, refresh the page.)");
     let yearPrompt = window.prompt("Enter the year.");
     let monthPrompt = window.prompt("Enter the month.")
     let dayPrompt = window.prompt("Enter the day.")
