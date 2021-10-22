@@ -7,6 +7,6 @@
     let random = Math.floor(Math.random() * (maximumId - minimumId + 1));
     random += parseInt(minimumId);
         const resultId = document.getElementById('result');
-        let total =resultId.innerHTML = random;
+        let total = resultId.innerHTML = random;
 });
 
