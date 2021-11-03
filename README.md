@@ -9,6 +9,8 @@ Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is no
 
 Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
+Random: Random files.
+
 Random-number-generator: Generates a number from the given inputs. Beware of the reset button..
 
 Survey-form: A survey form with simple question. Redirects you to a YouTube page with "Never Gonna Give You Up" upon submission.
