@@ -86,6 +86,6 @@ h1 { /*heading*/
 }
 
 .mole {
-	background-image: url("/images/myMole.png");
+	background-image: url("images/myMole.png");
 	background-size: cover;
 }
