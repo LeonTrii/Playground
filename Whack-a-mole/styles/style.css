@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+body {
+    background-color: #A7C7E7;
+}
+
+#wrapper {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    width: 415px;
+    height: 415px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid {
+    width: 125px;
+    height: 125px;
+    background-color: #edf3fa;
+    border: 1px solid;
+    border-radius: 50%;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.44);
+}
+
+h1 { /*heading*/
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 40px;
+    padding: 10px;
+} 
+
+#seconds-left { /*seconds value*/
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#seconds {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 25px;
+    margin-top: 43px;
+    padding-bottom: 5px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#total { /*seconds value*/
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 25px;
+    margin-top: 75px;
+    padding-bottom: 5px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#points {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 25px;
+    margin-top: 110px;
+    padding-bottom: 5px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#buttons {
+    position: absolute;
+    margin-top: 148px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#start {
+    margin-right: 12px;
+}
+
+#reset {
+    margin-left: 12px;
+}
+
+.mole {
+	background-image: url("/images/myMole.png");
+	background-size: cover;
+}
