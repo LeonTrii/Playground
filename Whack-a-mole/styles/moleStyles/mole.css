@@ -1,0 +1,599 @@
+/*16x16 pixels per cube*/
+body {
+  background-color: #edf3fa;
+}
+
+#rowOne {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #23272a;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+
+#rowTwo {
+  height: 16px;
+  position: absolute;
+  width: 144px;
+  background-color: #23272a;
+  margin-left: 152px;
+  margin-top: 216px;
+}
+
+#rowTwoSkin {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #6b6b64;
+  margin-left: 216px;
+  margin-top: 216px;
+}
+
+#rowThree {
+  height: 16px;
+  position: absolute;
+  width: 176px;
+  background-color: #23272a;
+  margin-left: 152px;
+  margin-top: 232px;
+}
+
+#rowThreeSkin {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 168px;
+  margin-top: 232px;
+}
+
+#rowThreeEye {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #f7f7f7;
+  margin-left: 216px;
+  margin-top: 232px;
+}
+
+#rowThreeSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 232px;
+  margin-top: 232px;
+}
+
+#rowFour {
+  height: 16px;
+  position: absolute;
+  width: 208px;
+  background-color: #23272a;
+  margin-left: 120px;
+  margin-top: 248px;
+}
+
+#rowFourSkin {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 168px;
+  margin-top: 248px;
+}
+
+#rowFourEye {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #f7f7f7;
+  margin-left: 216px;
+  margin-top: 248px;
+}
+
+#rowFourEyeOne {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #23272a;
+  margin-left: 232px;
+  margin-top: 248px;
+}
+
+#rowFourSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 248px;
+  margin-top: 248px;
+}
+
+#rowFourNose {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #ed9a84;
+  margin-left: 280px;
+  margin-top: 248px;
+}
+
+#rowFive {
+  height: 16px;
+  position: absolute;
+  width: 224px;
+  background-color: #23272a;
+  margin-left: 104px;
+  margin-top: 264px;
+}
+
+#rowFiveSkin {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #6b6b64;
+  margin-left: 136px;
+  margin-top: 264px;
+}
+
+#rowFiveSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 112px;
+  background-color: #6b6b64;
+  margin-left: 168px;
+  margin-top: 264px;
+}
+
+#rowFiveNose {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #ed9a84;
+  margin-left: 280px;
+  margin-top: 264px;
+}
+
+#rowFiveNoseOne {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #df907c;
+  margin-left: 296px;
+  margin-top: 264px;
+}
+
+#rowSix {
+  height: 16px;
+  position: absolute;
+  width: 240px;
+  background-color: #23272a;
+  margin-left: 88px;
+  margin-top: 280px;
+}
+
+#rowSixSkin {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 120px;
+  margin-top: 280px;
+}
+
+#rowSixSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 80px;
+  background-color: #6b6b64;
+  margin-left: 200px;
+  margin-top: 280px;
+}
+
+#rowSeven {
+  height: 16px;
+  position: absolute;
+  width: 208px;
+  background-color: #23272a;
+  margin-left: 88px;
+  margin-top: 296px;
+}
+
+#rowSevenSkin {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 104px;
+  margin-top: 296px;
+}
+
+#rowSevenSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 168px;
+  margin-top: 296px;
+}
+
+#rowEight {
+  height: 16px;
+  position: absolute;
+  width: 176px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 312px;
+}
+
+#rowEightSkin {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 104px;
+  margin-top: 312px;
+}
+
+#rowEightSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #6b6b64;
+  margin-left: 168px;
+  margin-top: 312px;
+}
+
+#rowEightSkinTwo {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 200px;
+  margin-top: 312px;
+}
+
+#rowNine {
+  height: 16px;
+  position: absolute;
+  width: 192px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 328px;
+}
+
+#rowNineSkin {
+  height: 16px;
+  position: absolute;
+  width: 80px;
+  background-color: #6b6b64;
+  margin-left: 88px;
+  margin-top: 328px;
+}
+
+#rowNineSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #6b6b64;
+  margin-left: 216px;
+  margin-top: 328px;
+}
+
+#rowTen {
+  height: 16px;
+  position: absolute;
+  width: 208px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 344px;
+}
+
+#rowTenSkin {
+  height: 16px;
+  position: absolute;
+  width: 128px;
+  background-color: #6b6b64;
+  margin-left: 88px;
+  margin-top: 344px;
+}
+
+#rowTenSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #6b6b64;
+  margin-left: 232px;
+  margin-top: 344px;
+}
+
+#rowEleven {
+  height: 16px;
+  position: absolute;
+  width: 208px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 360px;
+}
+
+#rowElevenSkin {
+  height: 16px;
+  position: absolute;
+  width: 80px;
+  background-color: #6b6b64;
+  margin-left: 88px;
+  margin-top: 360px;
+}
+
+#rowElevenSkinOne {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 184px;
+  margin-top: 360px;
+}
+
+#rowElevenSkinTwo {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 232px;
+  margin-top: 360px;
+}
+
+#rowElevenFeet {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 120px;
+  margin-top: 360px;
+}
+
+#rowTwelve {
+  height: 16px;
+  position: absolute;
+  width: 208px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 376px;
+}
+
+#rowTwelveFeet {
+  height: 16px;
+  position: absolute;
+  width: 80px;
+  background-color: #6b6b64;
+  margin-left: 104px;
+  margin-top: 376px;
+}
+
+#rowTwelveFeetOne {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #6b6b64;
+  margin-left: 136px;
+  margin-top: 376px;
+}
+
+#rowTwelveFeetTwo {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #6b6b64;
+  margin-left: 216px;
+  margin-top: 376px;
+}
+
+#rowThirteen {
+  height: 16px;
+  position: absolute;
+  width: 240px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 392px;
+}
+
+#rowThirteenFeet {
+  height: 16px;
+  position: absolute;
+  width: 96px;
+  background-color: #6b6b64;
+  margin-left: 88px;
+  margin-top: 392px;
+}
+
+#rowThirteenFeetOne {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #feb299;
+  margin-left: 104px;
+  margin-top: 392px;
+}
+
+#rowThirteenFeetTwo {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #ed9a84;
+  margin-left: 168px;
+  margin-top: 392px;
+}
+
+#rowThirteenFeetThree {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #df907c;
+  margin-left: 200px;
+  margin-top: 392px;
+}
+
+#rowThirteenFeetFour {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #feb299;
+  margin-left: 200px;
+  margin-top: 392px;
+}
+
+#rowFourteen {
+  height: 16px;
+  position: absolute;
+  width: 240px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 408px;
+}
+
+#rowFourteenFeet {
+  height: 16px;
+  position: absolute;
+  width: 80px;
+  background-color: #ed9a84;
+  margin-left: 88px;
+  margin-top: 408px;
+}
+
+#rowFourteenFeetOne {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #df907c;
+  margin-left: 104px;
+  margin-top: 408px;
+}
+
+#rowFourteenFeetTwo {
+  height: 16px;
+  position: absolute;
+  width: 64px;
+  background-color: #df907c;
+  margin-left: 184px;
+  margin-top: 408px;
+}
+
+#rowFourteenFeetThree {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #feb299;
+  margin-left: 200px;
+  margin-top: 408px;
+}
+
+#rowFourteenFeetFour {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #df907c;
+  margin-left: 264px;
+  margin-top: 408px;
+}
+
+#rowFifteen {
+  height: 16px;
+  position: absolute;
+  width: 240px;
+  background-color: #23272a;
+  margin-left: 72px;
+  margin-top: 424px;
+}
+
+#rowFifteenFeet {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #ed9a84;
+  margin-left: 104px;
+  margin-top: 424px;
+}
+
+#rowFifteenFeetOne {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #df907c;
+  margin-left: 136px;
+  margin-top: 424px;
+}
+
+#rowFifteenFeetTwo {
+  height: 16px;
+  position: absolute;
+  width: 80px;
+  background-color: #df907c;
+  margin-left: 200px;
+  margin-top: 424px;
+}
+
+#rowFifteenFeetThree {
+  height: 16px;
+  position: absolute;
+  width: 32px;
+  background-color: #feb299;
+  margin-left: 232px;
+  margin-top: 424px;
+}
+
+#rowFifteenFeetFour {
+  height: 16px;
+  position: absolute;
+  width: 16px;
+  background-color: #ed9a84;
+  margin-left: 264px;
+  margin-top: 424px;
+}
+
+#rowSixteen {
+  height: 16px;
+  position: absolute;
+  width: 208px;
+  background-color: #23272a;
+  margin-left: 88px;
+  margin-top: 440px;
+}
+
+#rowSixteenFeet {
+  height: 16px;
+  position: absolute;
+  width: 64px;
+  background-color: #ed9a84;
+  margin-left: 120px;
+  margin-top: 440px;
+}
+
+#rowSixteenFeetOne {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #feb299;
+  margin-left: 136px;
+  margin-top: 440px;
+}
+
+#rowSixteenFeetTwo {
+  height: 16px;
+  position: absolute;
+  width: 48px;
+  background-color: #df907c;
+  margin-left: 216px;
+  margin-top: 440px;
+}
+
+#rowSeventeen {
+  height: 16px;
+  position: absolute;
+  width: 176px;
+  background-color: #23272a;
+  margin-left: 104px;
+  margin-top: 456px;
+}
+/*# sourceMappingURL=mole.css.map */
