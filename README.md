@@ -15,4 +15,4 @@ Random-number-generator: Generates a number from the given inputs. Beware of the
 
 Survey-form: A survey form with simple question. Redirects you to a YouTube page with, "Never Gonna Give You Up" upon submission.
 
-Whack-a-mole: Simple Whack-a-mole game.
+Whack-a-mole: Simple Whack-a-mole game. mole.jpeg is not mine. myMole.png is from index.mole. I used CSS to add color to the mole.
