@@ -17,4 +17,6 @@ Random-number-generator: Generates a number from the given inputs. Beware of the
 
 Survey-form: A survey form with simple question. Redirects you to a YouTube page with, "Never Gonna Give You Up" upon submission.
 
+Tic-Tac-Toe: Classic Tic-Tac-Tow game for two players.
+
 Whack-a-mole: Simple Whack-a-mole game. myMole.png is from mole.html. I used CSS to add color to the mole.
