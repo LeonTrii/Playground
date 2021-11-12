@@ -12,6 +12,8 @@ Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
 Random-number-generator: Generates a number from the given inputs. Beware of the reset button..
 
+Random-quote-machine: Generates a random quote from a list of 102 quotes.
+
 Survey-form: A survey form with simple question. Redirects you to a YouTube page with, "Never Gonna Give You Up" upon submission.
 
 Tic-Tac-Toe: Classic Tic-Tac-Tow game for two players.
