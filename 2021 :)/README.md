@@ -6,6 +6,8 @@ Connect-four: A connect four game for two players. It doesn't have AI unfortunat
 
 Countdown-timer: Three prompts will pop up in which you enter the year, month, and day. Afterwards, the program will count down to that date.
 
+Drum-machine: A board that emits sounds.
+
 Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is not in Deltarune, I thought it was close enough.
 
 Kirby-animation: Waving Kirby with a beating heart on his left hand.
