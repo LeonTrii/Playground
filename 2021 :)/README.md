@@ -12,6 +12,8 @@ Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is no
 
 Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
+Pomodoro-timer: Timer that counts down a session, then a break.
+
 Random-number-generator: Generates a number from the given inputs. Beware of the reset button..
 
 Random-quote-machine: Generates a random quote from a list of 102 quotes.
