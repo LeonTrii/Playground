@@ -6,7 +6,7 @@ Connect-four: A connect four game for two players. It doesn't have AI unfortunat
 
 Countdown-timer: Three prompts will pop up in which you enter the year, month, and day. Afterwards, the program will count down to that date.
 
-Data-Visualization: A few projects based on data.
+Data-Visualization: A few projects based on data. All made using d3.js.
 
 Drum-machine: A board that emits sounds.
 
