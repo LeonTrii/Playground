@@ -6,7 +6,7 @@ It is easier to read and plan.
 Here is the link: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json
 */
 
-fetch('data.json')
+fetch('/data.json')
     .then(response => response.json())
     .then (data => {
         let j = -1;
