@@ -6,4 +6,4 @@ GDP-bar-chart: A bar chart that shows the United States Gross Domestic Product. 
 
 Surface-temperature-heat-map: A nice looking heat map that shows the surface ground temperature.
 
-Video-game-tree-map: A tree map containing the top video games.
+Video-game-tree-map: A very strange (unique?) tree map containing the top video games.
