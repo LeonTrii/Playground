@@ -446,7 +446,7 @@ fetch('https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/maste
     .append('title')
     .text(d => {
         countApr++;
-        return `August ${aprilData[countApr][2]}\nTemperature: ${aprilData[countApr][0]}°C\nTemperature Change: ${aprilData[countApr][1]}°C`;
+        return `April ${aprilData[countApr][2]}\nTemperature: ${aprilData[countApr][0]}°C\nTemperature Change: ${aprilData[countApr][1]}°C`;
     });
 
     svg.selectAll('circle') //March
