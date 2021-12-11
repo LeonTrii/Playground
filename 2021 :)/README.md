@@ -1,5 +1,7 @@
 # Projects from 2021!
 
+Banking: A small program that can deposit and withdraw money. Has a few other features.
+
 Calculator: A simple calculator that does arithmetic.
 
 Connect-four: A connect four game for two players. It doesn't have AI unfortunately.
