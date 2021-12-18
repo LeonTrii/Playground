@@ -4,6 +4,8 @@ Banking: A small program that can deposit and withdraw money. Has a few other fe
 
 Calculator: A simple calculator that does arithmetic.
 
+ChemistryConversions:
+
 Connect-four: A connect four game for two players. It doesn't have AI unfortunately.
 
 Countdown-timer: Three prompts will pop up in which you enter the year, month, and day. Afterwards, the program will count down to that date.
