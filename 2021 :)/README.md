@@ -1,5 +1,7 @@
 # Projects from 2021!
 
+Arithmetic Formatter: Formats addition and subtraction.
+
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
 Calculator: A simple calculator that does arithmetic.
