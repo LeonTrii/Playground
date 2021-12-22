@@ -7,3 +7,5 @@ Java-random-number: My first Java project. It takes two inputs from the user and
 RandomGUI: I tried making a GUI for my first Java project but ended up failing.
 
 home.js: The file I used to learn JavaScript for about two weeks.
+
+home.py: The file I used to learn Python for about two weeks.
