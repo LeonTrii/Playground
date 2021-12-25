@@ -22,6 +22,8 @@ Pomodoro-timer: Timer that counts down a session, then a break.
 
 Random-number-generator: Generates a number from the given inputs. Beware of the reset button..
 
+Random-password-generator: Generates random passwords.
+
 Random-quote-machine: Generates a random quote from a list of 102 quotes.
 
 Survey-form: A survey form with simple question. Redirects you to a YouTube page with, "Never Gonna Give You Up" upon submission.
