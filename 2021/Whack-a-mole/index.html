@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whack</title>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="https://kit.fontawesome.com/7224fca3e7.js" crossorigin="anonymous"></script>
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1 id='heading'>Whack-a-mole!!</h1>
+
+        <span id="seconds-left">Seconds left: </span>
+        <span id="seconds">60</span>
+        <div id="total">Points:</div>
+        <div id="points">0</div>
+    <div id="buttons">
+    <button id="start" class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-6 border-b-4 border-blue-700 hover:border-blue-500 rounded">
+        Start <i class="fas fa-splotch"></i>
+      </button>
+      <button id="reset" class="bg-red-500 hover:bg-red-400 text-white font-bold py-2 px-6 border-b-4 border-red-700 hover:border-red-500 rounded">
+        Reset <i class="fas fa-power-off"></i>
+      </button>
+      </div>
+    <div id="wrapper">
+        <button class="grid" id="one"></button>
+        <button class="grid" id="two"></button>
+        <button class="grid" id="three"></button>
+        <button class="grid" id="four"></button>
+        <button class="grid" id="five"></button>
+        <button class="grid" id="six"></button>
+        <button class="grid" id="seven"></button>
+        <button class="grid" id="eight"></button>
+        <button class="grid" id="nine"></button>
+    </div>
+</body>
+<script src='script.js'></script>
+</html>
