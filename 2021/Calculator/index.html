@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/7224fca3e7.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+     integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+     crossorigin="anonymous"></script>
+</head>
+<body>
+    
+    <div id="container">
+
+        <div id="display">
+            <span id="displayMath">0</span>
+            <span id="displayValue">0</span>
+        </div>
+
+        <div class="row" id="firstRow">
+        <button class="btn" id="clear"><span>AC</span></button>
+        <button class="btn" id="posToNeg"><span>+/-</span></button>
+        <button class="btn" id="backspace"><i class="fas fa-backspace"></i></button>
+        <button class="btn" id="divide"><span id="operatorDivide">/</span></button>
+        </div>
+
+        <div class="row">
+        <button class="btn" id="one"><span>1</span></button>
+        <button class="btn" id="two"><span>2</span></button>
+        <button class="btn" id="three"><span>3</span></button>
+        <button class="btn" id="multiply"><span id="operatorMultiply">*</span></button>
+        </div>
+
+        <div class="row">
+        <button class="btn" id="four"><span>4</span></button>
+        <button class="btn" id="five"><span>5</span></button>
+        <button class="btn" id="six"><span>6</span></button>
+        <button class="btn" id="subtract"><span id="operatorSubtract">-</span></button>
+        </div>
+
+        <div class="row">
+        <button class="btn" id="seven"><span>7</span></button>
+        <button class="btn" id="eight"><span>8</span></button>
+        <button class="btn" id="nine"><span>9</span></button>
+        <button class="btn" id="add"><span id="operatorAdd">+</span></button>
+        </div>
+
+        <div class="row">
+        <button class="btn" id="zero"><span>0</span></button>
+        <button class="btn" id="decimal"><span id="decimalFont">.</span></button>
+        <button class="btn" id="equals"><span id="equalsFont">=</span></button>
+        </div>
+        
+    </div>
+    <script src="script.js" defer></script>
+</body>
+</html>
