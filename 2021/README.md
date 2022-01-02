@@ -1,4 +1,4 @@
-# Projects from 2021!
+# Projects from 2021
 
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
