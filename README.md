@@ -5,5 +5,3 @@ Hello, I started learning how to code in 2021. The aspect of problem solving mak
 I decided to organize everything by year.
 
 Certificates: The certifications I received from several websites.
-
-Random: Random files.
