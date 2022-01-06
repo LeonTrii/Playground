@@ -4,4 +4,5 @@ On July 28th, 2021 I started the freeCodeCamp curriculum! My certificates for th
 
 The projects for FCC are on here: 
 https://codepen.io/LeonTrii
+
 https://replit.com/@LeonTrii
