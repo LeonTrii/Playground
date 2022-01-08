@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap');
+
+$font: 'Roboto Mono', monospace;
+
+h1, h2 {
+    font-family: $font;
+    text-align: center;
+}
+
+svg {
+    display: block;
+    margin: auto;
+    border: 18px double;
+    box-shadow: 20px 20px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+#span {
+    font-family: $font;
+    font-size: 25px;
+}
+
+.dot {
+    fill: #44bc39;
+    opacity: 0.7;
+}
+
+.doped {
+    fill: #3944bc;
+    opacity: 0.7;
+}
+
+#p {
+    font-family: $font;
+    font-size: 20px;
+}
