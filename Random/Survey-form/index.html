@@ -1,159 +1,59 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-       <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/7224fca3e7.js" crossorigin="anonymous"></script>
 </head>
-<header>
-<link rel="stylesheet" href="style.css">
-    <h1 id="title">An <u>extremely cool</u> survey</h1>
-    <p class="text" id="description"> Thank you for taking the time to complete this questionnaire</p>
-  </header>
-  <body>
-    <form id="survey-form">
-      <div style="text-align: center">
-        <label id="name-label"
-               for="name"
-               ><strong>Name:</strong>                      </label>
-        <input type="text"
-               style="font-size: 15px"
-               name="name" 
-               id="name" 
-               class="form"     
-               placeholder="Enter your full name" required/>
-      </div>
-        <div style="text-align: center">
-          <label id="email-label"                          for="email"><strong>Email:</strong></label>
-          <input type="text"
-                 style="font-size: 15px"
-                 name="email"
-                 id="email"
-                 class="form"
-                 placeholder="Enter your email" required/>
-      </div>
-       <div style="text-align: center">
-         <label id="number-label" 
-                for="number"><strong>Age: &nbsp; </strong></label>
-         <input type="text"
-                style="font-size: 15px"
-                name="number"
-                id="number"
-                class="form"
-                placeholder="Enter your age"
-                 min="1"
-                 max="99"/>
-      </div>
-        <div style="text-align: center">
-          <p><strong>What is your gender?</strong></p>
-          <select id="dropdown"
-                  name="gender"
-                  class="drop"
-                  required>
-          <option disabled selected value> Select Gender</option>
-          <option value="female">Female</option>
-          <option value="male">Male</option>
-          <option value="non-binary">Non-binary</option>
-          <option value="perfer not to say">Prefer not to say</option>
+<body>
+    <div id="header"> 
+    <h1 class="header">A fairly simple survey <i class="fas fa-spider"></i></h1>
+     <p id="desc">Thank you for partaking in this questionnaire!</p>
+    </div>
+    <div class="container">
+        <form>
+            <div class="form-group">
+        <label for="fullName">1). First and last name:</label>
+        <input type="text" class="form-control textBox" placeholder="Enter your full name..">
+        <small class="form-text"></small>
+        <label for="email">2). Enter your email:</label>
+        <input type="email" class="form-control textBox" placeholder="Enter your email..">
+        <small class="form-text"></small>
+        <label for="age">3). Enter your age:</label>
+        <input type="number" class="form-control textBox" placeholder="Enter your age..">
+        <small class="form-text"></small>
+        <div class="form-group">
+          <label class="textBox" for="whatDoYouEnjoy">4). What do you enjoy doing?</label>
+          <textarea class="form-control funText" id="fun" placeholder="I like to.."></textarea>
+        </div>
+        <p class="selectGender">5). What is your gender?</p>
+        <select class="form-select" aria-label="Default select example">
+            <option selected>Select gender</option>
+            <option value="female">Female</option>
+            <option value="male">Male</option>
+            <option value="nonBinary">Non-binary</option>
+            <option value="ratherNotSay">Rather not say</option>
           </select>
-      </div>
-
-      <div style="text-align: center">
-        <p><strong>Do you enjoy being Rick-Rolled?</strong></p>
-        <label for="yes" style="font-size:20px">
-          <input
-                 name="rickroll"
-                 value="yes"
-                 id="yes"
-                  type="radio"
-                 checked
-                 class="button"/>Yes
-
-        </label>
-        <label for="occasionally" style="font-size: 20px"> 
-          <input 
-                 name="rickroll"
-                 value="occasionally"
-                 id="occasionally"
-                 type="radio"
-                class="button"/>Occasionally
-        </label>
-        <label for="no" style="font-size: 20px"> 
-          <input 
-                 name="rickroll"
-                 value="no"
-                 id="no"
-                 type="radio"
-                 class="button"/>No
-          </div>
-        <div style="text-align: center">
-          <p><strong>What subject(s) intrigue you?</strong></p>
-          <label for="english">
-            <input name="subject"
-                   value="english"
-                   id="english"
-
-                   type="checkbox"
-                   class="button"/>English
-          </label>
-          <label for="math">
-            <input name="subject"
-                   value="math"
-                   id="math"
-                   type="checkbox"
-                   class="button"/>Math
-            </label>
-           <label for="science">
-            <input name="subject"
-                   value="science"
-                   id="science"
-                   type="checkbox"
-                   class="button"/>Science
-            </label>
-           <label for="history">
-            <input name="subject"
-                   value="history"
-                   id="history"
-                   type="checkbox"
-                   class="button"/>History
-            </label>
-           <label for="Art">
-            <input name="subject"
-                   value="Art"
-                   id="Art"
-                   type="checkbox"
-                   class="button"/>Art
-            </label>
-           <label for="health">
-            <input name="subject"
-                   value="health"
-                   id="health"
-                   type="checkbox"
-                   class="button"/>Health
-            </label>
-           <label for="lunch">
-            <input name="subject"
-                   value="lunch"
-                   id="lunch"
-                   type="checkbox"
-                   class="button"/>Lunch
-            </label>
-           <label for="other">
-            <input name="subject"
-                   value="other"
-                   id="other"
-                   type="checkbox"
-                   class="button"/>Other
-            </label>
+          <p class="rickRoll textBox">6). Do you enjoy being Rick Rolled?</p>
+        <select class="form-select rickBox" aria-label="Default select example">
+            <option selected>Select your fondness being Rick Rolled</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+            <option value="Occasionally">Occasionally</option>
+          </select>
+          <div class="d-grid gap-2">
+          <button onclick="location.href='https://www.youtube.com/watch?v=xvFZjo5PgG0'" type="button" class="submitButton btn btn-success btn-lg btn-block">Submit <i class="fab fa-telegram-plane"></i></button>
         </div>
-        <div style="text-align: center">
-          <p><strong>Any comments or suggestions?</strong></p>
-          <textarea 
-                    id="comments"
-                    name="comments"
-                    class="comment"
-                    placeholder="Enter your comments or suggestions.."></textarea>
         </div>
-        <div style="text-align: center">
-          <a href="https://youtu.be/QtBDL8EiNZo" target="_blank"><button type="button" id="submit"
-                  class="submit-button">Submit</button></div>
         </form>
-  </body>
-        </html>
+    </div>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    </body>
+</html>
+
+
+
+
