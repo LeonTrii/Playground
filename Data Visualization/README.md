@@ -1,11 +1,11 @@
 # Data Visualization Projects
 
-Bicycle-racing-scatter-plot: Scatter plot that shows the top speeds for biking up the Alpe d'Huez. Includes if the cyclist doped.
+Bicycle-Racing-Scatter-Plot: Scatter plot that shows the top speeds for biking up the Alpe d'Huez. Includes if the cyclist doped.
 
 Choropleth-Map: A cool map a shows the U.S. counties.
 
-GDP-bar-chart: A bar chart that shows the United States Gross Domestic Product. There are tooltips, but the first one takes a few seconds to pop up.
+GDP-Bar-Chart: A bar chart that shows the United States Gross Domestic Product. There are tooltips, but the first one takes a few seconds to pop up.
 
-Surface-temperature-heat-map: A nice looking heat map that shows the surface ground temperature.
+Surface-Temperature-Heat-Map: A nice looking heat map that shows the surface ground temperature.
 
-Video-game-tree-map: A very strange-looking (unique?) tree map containing the top video games.
+Video-Game-Tree-Map: A very strange-looking (unique?) tree map containing the top video games.
