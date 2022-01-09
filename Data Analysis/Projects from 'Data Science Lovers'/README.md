@@ -1,4 +1,4 @@
-# Data Analysis from 'Data Science Lovers'
+# Data Analysis with data and questons from 'Data Science Lovers'
 
 Cars: Spreadsheet containing numerous types of cars with questions regarding it.
 
