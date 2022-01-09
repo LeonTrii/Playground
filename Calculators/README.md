@@ -1,6 +1,6 @@
 # Calculator Projects
 
-## Math and science are my favorite subjests. Using math and computers to calculate things quickly is quite helpful.
+## Math and science are my favorite subjests. Using math and computers to calculate things quickly is quite helpful and cool.
 
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
