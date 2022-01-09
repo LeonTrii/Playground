@@ -1,6 +1,6 @@
 # Calculator Projects
 
-## Having a machine perform different operations in so little time is quite cool.
+## Math and science are my favorite subjests. Using math and computers to calculate things quickly is quite helpful.
 
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
