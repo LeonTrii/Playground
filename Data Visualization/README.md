@@ -1,6 +1,6 @@
 # Data Visualization Projects
 
-## Visualizing data is like creating art. Data is practically everywhere and displaying it, is creative.
+## I like to express my creativity and imagination. Data is practically everywhere and it's great to look at data in a fun and creative way.
 
 Bicycle-Racing-Scatter-Plot: Scatter plot that shows the top speeds for biking up the Alpe d'Huez. Includes if the cyclist doped.
 
