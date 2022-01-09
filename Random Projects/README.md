@@ -1,4 +1,4 @@
-# Random Projects
+# Random Projects ¯\_(ツ)_/¯
 
 Drum-machine: A board that emits sounds.
 
