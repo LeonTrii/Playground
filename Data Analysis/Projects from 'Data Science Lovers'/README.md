@@ -1,6 +1,6 @@
 # Data Analysis
 
-## All datasets are from https://www.kaggle.com/
+## The datasets are from https://www.kaggle.com/
 
 Cars: Spreadsheet containing numerous types of cars.
 
