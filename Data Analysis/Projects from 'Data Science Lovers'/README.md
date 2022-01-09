@@ -1,7 +1,7 @@
 # Data Analysis
 
-Cars: Spreadsheet containing numerous types of cars with questions regarding it.
+Cars: Spreadsheet containing numerous types of cars.
 
-Police: Data for how often people were stopped.
+Police: Data for how often people were stopped by the police.
 
-Weather: Data from 2012 that contains questions regarding it.
+Weather: Weather data from 2012.
