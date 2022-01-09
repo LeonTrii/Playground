@@ -1,3 +1,3 @@
 # Data Analysis Projects
 
-Weather: Data from 2012 with one hour increments that contains questions regarding it.
+Weather: Data from 2012 that contains questions regarding it.
