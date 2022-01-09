@@ -1,5 +1,7 @@
 # Calculator Projects
 
+## Having a machine perform different operations in so little time is quite cool.
+
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
 Calculator: A simple calculator that does arithmetic.
