@@ -6,3 +6,5 @@ Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is no
 Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
 Kirby-animation: Waving Kirby with a beating heart on his left hand.
+
+Mole: A mole for my Whack-A-Mole game:
