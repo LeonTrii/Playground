@@ -1,5 +1,7 @@
 # Game Projects
 
+## I really enjoyed playing games. Games in which you explore or problem solve likely played a role in my passion for programming.
+
 Connect-four: A connect four game for two players. It doesn't have AI unfortunately.
 
 Tic-Tac-Toe: Classic Tic-Tac-Tow game for two players.
