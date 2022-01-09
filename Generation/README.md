@@ -1,5 +1,7 @@
 # Generation Projects
 
+## It was exciting and enjoyable to play games in which items were generated.
+
 Markdown-Previewer: An editable markdown box.
 
 Random-Number-Generator: Generates a number from the given inputs. Beware of the reset button..
