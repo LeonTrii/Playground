@@ -2,7 +2,7 @@
 window.onload = () => {
     const value = document.getElementById('number');
     const button = document.getElementById('btn');
-    fetch('paragraphs.json')
+    fetch('https://raw.githubusercontent.com/LeonTrii/Playground/main/Generation/Unique-Lorem-Ipsum/paragraphs.json')
     .then(Response => Response.json())
     .then(paragraphs => {
         const paragraphArray = Object.values(paragraphs); // Turns into an array for referring to the data.
