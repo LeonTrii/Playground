@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+$font: 'Poppins', sans-serif;
+
+
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    height: calc(100%)
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: .6em;
+    color: rgb(26, 75, 138)
+}
+
+#parabox {
+    font-size: 3em;   
+}
+
+button {
+    background-color: #fff;
+    border-radius: 45px;
+    font-family: $font;
+    border-color: rgba(255, 255, 255, .3);
+    width: 130px;
+    height: 50px;
+    font-size: .9em;
+    box-shadow: 4px 4px 1px rgba(0, 0, 0, .1);
+}
+
+input {
+    border-color: rgba(255, 255, 255, .3);
+    height: 40px;
+    font-family: $font;
+    font-size: 1em;
+    box-shadow: 2px 2px 1px 3px rgba(0, 0, 0, .1);
+}
+
+input:focus {
+    outline: none;
+}
+
+#container {
+    text-align: center;
+    width: 500px;
+    font-size: 2em;
+}
