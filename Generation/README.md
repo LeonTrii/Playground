@@ -9,3 +9,5 @@ Random-Number-Generator: Generates a number from the given inputs. Beware of the
 Random-Password-Generator: Generates random passwords.
 
 Random-Quote-Machine: Generates a random quote from a list of 102 quotes.
+
+Unique-Lorem-Ipsum: Generates unique Lorem Ipsum created by me.
