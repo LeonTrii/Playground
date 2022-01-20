@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+body {
+  background-color: #e0e8ff;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  font-family: "Red Hat Display";
+}
+
+.background {
+  position: absolute;
+}
+
+#backgroundDesktop {
+  position: absolute;
+  width: 100vw;
+}
+
+#backgroundMobile {
+  position: absolute;
+  display: none;
+  width: 100vw;
+}
+
+#flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100vh;
+}
+
+#container {
+  z-index: 1;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 450px;
+  height: 700px;
+  background-color: #fff;
+  border-radius: 20px;
+  -webkit-box-shadow: 10px 50px 40px -30px rgba(0, 0, 0, 0.1);
+          box-shadow: 10px 50px 40px -30px rgba(0, 0, 0, 0.1);
+}
+
+#hero {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+h1 {
+  margin-top: 40px;
+  font-size: 2em;
+  text-align: center;
+  color: #1f2f56;
+  font-weight: 900;
+}
+
+.attribution {
+  font-size: 2em;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
+
+p {
+  text-align: center;
+  width: 300px;
+  margin: 0px auto 0px auto;
+  font-size: 1em;
+  color: #7280a7;
+}
+
+#plans {
+  margin: 0px auto 0px auto;
+  background-color: #f5f7ff;
+  height: 90px;
+  width: 360px;
+  margin-top: 20px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#text {
+  margin-left: 5px;
+  color: #7280a7;
+  height: 90px;
+  width: 190px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+#plan {
+  font-weight: 700;
+  color: #1f2f56;
+}
+
+#change {
+  font-weight: 700;
+  margin-left: 275px;
+  position: absolute;
+  color: #3829e0;
+}
+
+button {
+  display: block;
+  height: 50px;
+  width: 360px;
+  background-color: #3829e0;
+  border-radius: 8px;
+  border: 1px #3829e0;
+  color: #fff;
+  font-weight: 700;
+  margin: 30px auto 0px auto;
+  -webkit-box-shadow: -10px 32px 22px -22px #5d54fc;
+          box-shadow: -10px 32px 22px -22px #5d54fc;
+}
+
+#cancel {
+  margin-top: 30px;
+  font-weight: 700;
+  text-align: center;
+  color: #7280a7;
+}
+
+@media (max-width: 375px) {
+  #backgroundDesktop {
+    display: none;
+  }
+  #backgroundMobile {
+    display: block;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
