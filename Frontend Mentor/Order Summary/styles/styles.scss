@@ -55,6 +55,7 @@ h1 {
 }
 
 .attribution {
+    margin-top: 60px;
     font-size: 2em;
     text-align: center;
 }
@@ -101,7 +102,12 @@ p {
     font-weight: 700;
     margin-left: 275px;
     position: absolute;
-    color: hsl(245, 75%, 52%)
+    color: hsl(245, 75%, 52%);
+    transition: .5s;
+}
+
+#change:hover {
+    color: hsl(245, 74%, 67%);
 }
 
 button {
@@ -115,13 +121,28 @@ button {
     font-weight: 700;
     margin: 30px auto 0px auto;
     box-shadow: -10px 32px 22px -22px hsl(243, 97%, 66%);
+    transition: .5s;
+}
+
+button:hover {
+    background-color: hsl(245, 74%, 67%);
 }
 
 #cancel {
     margin-top: 30px;
-    font-weight: 700;
     text-align: center;
+    font-weight: 700;
     color: hsl(224, 23%, 55%);
+    transition: .4s;
+}
+
+#cancel:hover {
+    color: hsl(223, 47%, 23%);
+}
+
+#cancelCenter {
+    display: flex;
+    justify-content: center;
 }
 
 @media (max-width: 375px) {

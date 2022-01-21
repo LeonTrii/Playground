@@ -62,6 +62,7 @@ h1 {
 }
 
 .attribution {
+  margin-top: 60px;
   font-size: 2em;
   text-align: center;
 }
@@ -119,6 +120,12 @@ p {
   margin-left: 275px;
   position: absolute;
   color: #3829e0;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#change:hover {
+  color: #776de9;
 }
 
 button {
@@ -133,13 +140,34 @@ button {
   margin: 30px auto 0px auto;
   -webkit-box-shadow: -10px 32px 22px -22px #5d54fc;
           box-shadow: -10px 32px 22px -22px #5d54fc;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+button:hover {
+  background-color: #776de9;
 }
 
 #cancel {
   margin-top: 30px;
-  font-weight: 700;
   text-align: center;
+  font-weight: 700;
   color: #7280a7;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+#cancel:hover {
+  color: #1f2f56;
+}
+
+#cancelCenter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 @media (max-width: 375px) {
