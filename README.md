@@ -21,7 +21,7 @@ I've used numerous websites for learning how to code. My profiles are listed bel
 
 **SoloLearn: https://www.sololearn.com/profile/21424414**
 
-### Hosting 
+### Hosting (I mainly use GitHub for showing code)
 
 **Replit: https://replit.com/@LeonTrii**
 
