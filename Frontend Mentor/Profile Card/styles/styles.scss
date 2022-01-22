@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+$font: 'Kumbh Sans', sans-serif;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+    font-family: $font;
+}
+
+body {
+    background-color: hsl(185, 75%, 39%);
+}
+
+.attribution { 
+    font-size: 11px; text-align: center;
+    font-size: 2em;
+    margin-top: 120px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+#top {
+    z-index: -1;
+    position: absolute;
+    margin-left: -300px;
+    margin-top: -600px;
+}
+
+#bottom {
+    z-index: -1;
+    position: absolute;
+    margin-left: 700px;
+    top: 250px;
+}
+
+#container {
+    z-index: 1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 350px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 10px 10px 200px 10px rgba(0, 0, 0, .3);
+}
+
+img {
+    pointer-events: none;
+}
+
+#pattern {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#person {
+    position: absolute;
+    border-radius: 90px;
+    border: 4px solid white;
+    top: 90px;
+}
+
+.flex {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    width: 350px;
+    font-size: 18px;
+    font-weight: 400;
+    color: hsl(227, 10%, 46%);
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: hsl(0, 0%, 59%) 1px solid; 
+    padding-bottom: 20px;
+}
+
+#age {
+    font-weight: 400;
+    color: hsl(227, 10%, 46%);
+}
+
+header {
+    margin-top: 70px;
+    text-align: center;
+}
+
+#numbers {
+    color: hsl(229, 23%, 23%);
+    font-size: 18px;
+    font-weight: 700;
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#text {
+    color: hsl(227, 10%, 46%);
+    font-size: 14px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+#numbers .num:nth-child(2) {
+    text-align: center;
+}
+
+.textContainer {
+    width: 116.666667px;
+    height: 30px;
+    text-align: center;
+}
