@@ -7,22 +7,22 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 I've used numerous websites for learning how to code. My profiles are listed below.
 
 ### Learning code
-_Udemy: https://www.udemy.com/user/leon-truong-7/ _
+**Udemy: https://www.udemy.com/user/leon-truong-7/**
 
-**_Codecademy: https://www.codecademy.com/profiles/LeonTrii _**
+**Codecademy: https://www.codecademy.com/profiles/LeonTrii**
 
-**_Coursera: https://www.coursera.org/user/fd8e5eae86df0c50bc38726db46bf8e5 _**
+**Coursera: https://www.coursera.org/user/fd8e5eae86df0c50bc38726db46bf8e5**
 
-**_HackerRank: https://www.hackerrank.com/LeonTrii _**
+**HackerRank: https://www.hackerrank.com/LeonTrii**
 
-**_Frontend Mentor: https://www.frontendmentor.io/profile/LeonTrii _**
+**Frontend Mentor: https://www.frontendmentor.io/profile/LeonTrii**
 
-**_freeCodeCamp: https://www.freecodecamp.org/icantfindmyspider _**
+**freeCodeCamp: https://www.freecodecamp.org/icantfindmyspider**
 
-**_SoloLearn: https://www.sololearn.com/profile/21424414 _**
+**SoloLearn: https://www.sololearn.com/profile/21424414**
 
 ### Hosting 
 
-**_Replit: https://replit.com/@LeonTrii _**
+**Replit: https://replit.com/@LeonTrii**
 
-**_CodePen: https://codepen.io/LeonTrii _**
+**CodePen: https://codepen.io/LeonTrii**
