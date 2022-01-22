@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body {
+  background-color: #0d192b;
+}
+
+.attribution {
+  font-size: 2em;
+  text-align: center;
+  color: #fff;
+}
+
+.attribution a {
+  color: #c7d4ff;
+}
+
+main {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#equilibrium {
+  margin-top: 20px;
+  width: 280px;
+  height: 280px;
+  border-radius: 10px;
+}
+
+#picture {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#container {
+  border-radius: 10px;
+  height: 530px;
+  width: 317px;
+  background-color: #14253d;
+}
+
+#insideCard {
+  width: 280px;
+  margin: 0 auto 0 auto;
+}
+
+#tag {
+  margin-top: 20px;
+  font-weight: 600px;
+  font-size: 18px;
+  position: absolute;
+  color: #fff;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#tag:hover {
+  color: #00fff7;
+}
+
+#desc {
+  color: #8bacda;
+  margin-top: 50px;
+}
+
+#price {
+  margin-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px #2f415b solid;
+}
+
+#icon {
+  margin-top: 15px;
+}
+
+#eth {
+  position: absolute;
+  color: #00fff7;
+  margin-top: 15px;
+  margin-left: 3px;
+  font-size: 14px;
+}
+
+#clock {
+  margin-left: 162px;
+}
+
+#time {
+  font-weight: 300;
+  color: #8bacda;
+  position: absolute;
+  margin-top: 14px;
+  margin-left: 8px;
+}
+
+#profile {
+  margin-top: 15px;
+  border-radius: 100px;
+  border: 1px white solid;
+  width: 30px;
+  height: 30px;
+}
+
+#authorAttr, #author {
+  font-size: 14px;
+}
+
+#authorAttr {
+  position: absolute;
+  color: #8bacda;
+  margin-top: 22px;
+  margin-left: 17px;
+}
+
+#author {
+  position: absolute;
+  color: #fff;
+  margin-top: 22px;
+  margin-left: 92px;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#author:hover {
+  color: #00fff7;
+}
+
+a {
+  pointer-events: auto;
+}
+
+#view {
+  position: absolute;
+}
+
+#eye {
+  z-index: 2;
+  top: 140px;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  visibility: hidden;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+#overlay {
+  z-index: 2;
+  position: absolute;
+  margin-top: 20px;
+  width: 280px;
+  height: 280px;
+  border-radius: 10px;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#overlay:hover {
+  opacity: 0.6;
+  background: #00fff7;
+}
+/*# sourceMappingURL=styles.css.map */
