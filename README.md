@@ -6,7 +6,7 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 
 I've used numerous websites for learning how to code. My profiles are listed below.
 
-### Learning to code
+### Learning
 **Udemy: https://www.udemy.com/user/leon-truong-7/**
 
 **Codecademy: https://www.codecademy.com/profiles/LeonTrii**
@@ -21,7 +21,7 @@ I've used numerous websites for learning how to code. My profiles are listed bel
 
 **SoloLearn: https://www.sololearn.com/profile/21424414**
 
-### Hosting (I mainly use GitHub for showing code)
+### Hosting (I mainly use GitHub for showing my code)
 
 **Replit: https://replit.com/@LeonTrii**
 
