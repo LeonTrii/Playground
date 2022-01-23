@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+$title: 'Big Shoulders Display', cursive;
+$font: 'Lexend Deca', sans-serif;
+
+* {
+    user-select: none;
+    pointer-events: none;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: $font;
+    color: hsl(0, 0%, 95%); 
+}
+
+button {
+    margin-top: 70px;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%);
+    pointer-events: all;
+    width: 140px;
+    height: 40px;
+    border-radius: 45px;
+    border: 2px solid hsl(0, 0%, 95%);
+    transition: .4s;
+}
+
+#btn1 {
+    color: hsl(31, 77%, 52%);
+}
+
+#btn2 {
+    color: hsl(184, 100%, 22%);
+}
+
+#btn3 {
+    color: hsl(179, 100%, 13%);
+}
+
+button:hover {
+    background-color: transparent;
+    color: #fff !important;
+}
+
+body {
+    background-color: hsl(0, 0%, 95%);
+    height: 100vh;
+}
+
+.attribution { 
+    color: #000;
+    font-size: 11px; 
+    text-align: center; 
+    font-size: 2em;
+    margin-top: 120px;
+}
+
+.attribution a { 
+    pointer-events: all;
+    color: hsl(228, 45%, 44%); 
+}
+
+#container {
+    width: 810px;
+    margin: 100px auto 0 auto;
+}
+
+#cards {
+    width: 810px;
+    display: flex;
+    justify-content: center;
+}
+
+#one, #two, #three {
+    width: 270px;
+    height: 410px;
+    display: flex;
+    justify-content: center;
+}
+
+#one {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: hsl(31, 77%, 52%);
+}
+
+#two {
+    background-color: hsl(184, 100%, 22%);
+}
+
+#three {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: hsl(179, 100%, 13%);
+}
+
+.insideCard {
+    width: 210px;
+}
+
+img {
+    width: 50px;
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: $title;
+    margin-top: 25px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.textContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    width: 210px;
+}
+
+@media (max-width: 375px) {
+    #cards {
+        flex-direction: column;
+    }
+
+    #one {
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    #three {
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 8px;
+    }
+}
