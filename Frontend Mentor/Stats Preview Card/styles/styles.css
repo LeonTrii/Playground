@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  pointer-events: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body {
+  background-color: #090b1a;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  font-size: 2em;
+  margin-top: 120px;
+  font-family: "Lexend Deca", sans-serif;
+  color: #fff;
+}
+
+.attribution a {
+  color: #7a95ff;
+  pointer-events: all;
+}
+
+#container {
+  width: 950px;
+  height: 380px;
+  background-color: #1b1938;
+  border-radius: 10px;
+}
+
+main {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#mobile {
+  display: none;
+}
+
+#desktop {
+  z-index: 1;
+  position: absolute;
+  width: 460px;
+  margin-left: 490px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#overlay {
+  z-index: 2;
+  opacity: .6;
+  position: absolute;
+  width: 460px;
+  margin-left: 490px;
+  height: 380px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #aa5cdb;
+}
+
+#textContainer {
+  width: 475px;
+  height: 390px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+h1 {
+  margin-top: 60px;
+  width: 335px;
+  height: 350px;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 31px;
+}
+
+span {
+  color: #aa5cdb;
+}
+
+p {
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.75);
+  padding-right: 55px;
+  margin-top: -250px;
+  line-height: 1.5;
+  font-size: 13.5px;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  color: #fff;
+  font-size: 20px;
+}
+
+h3 {
+  margin-top: 6px;
+  font-family: "Lexend Deca", sans-serif;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 12px;
+}
+
+#flex {
+  margin-top: -135px;
+  margin-left: -52px;
+  position: absolute;
+  width: 405px;
+  height: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+@media (max-width: 1000px) {
+  #desktop {
+    display: none;
+  }
+  #mobile {
+    display: block;
+    width: 350px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  #container {
+    width: 350px;
+    height: 800px;
+    margin-top: 300px;
+  }
+  #overlay {
+    width: 350px;
+    margin-left: 0;
+    border-radius: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 258px;
+  }
+  #textContainer {
+    width: 350px;
+    margin-left: 0px;
+    margin-top: 200px;
+    height: 800px;
+  }
+  h1, p {
+    text-align: center;
+  }
+  h1 {
+    margin-top: 100px;
+    font-size: 32px;
+  }
+  p {
+    margin-top: -220px;
+    margin-left: 45px;
+  }
+  #flex {
+    display: block;
+    -webkit-box-pack: unset;
+        -ms-flex-pack: unset;
+            justify-content: unset;
+  }
+  #companies, #templates, #queries {
+    width: 350px;
+    text-align: center;
+    margin-top: 35px;
+  }
+  #companies, #templates, #queries {
+    margin-left: 40px;
+  }
+  .attribution {
+    margin-top: 250px;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
