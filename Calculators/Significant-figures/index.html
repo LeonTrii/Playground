@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Significant Figures</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Significant Figures Calculator</h1>
+    </header>
+
+    <main>
+        <div id="container">
+            <h2>How to count Sig Figs:</h2>
+            <div id="howToCount">
+                <ol>
+                    <li>Determine if there is a decimal.</li>
+                    <li>If a decimal is present, count from the left side starting from the first nonzero number. For instance, 0.00320 has three sig figs.</li>
+                    <li>If a decimal is not present, count from the right side starting from the first nonzero number. For instance, 9000 has one sig fig.</li>
+                    <li>If the number is extremely large, you can us this program.</li>
+                </ol>
+            </div>
+                <input id="input" type="number">
+                <button id="btn">Calculate</button>
+                <h3>Output:</h3>
+                <div id="output"> 
+                    <h4 id="result">0 sig figs</h4>
+                </div>
+        </div>
+    </main>
+</body>
+<script src="script.js"></script>
+</html>

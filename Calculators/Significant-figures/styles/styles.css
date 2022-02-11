@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Mono&display=swap");
+body {
+  background-color: aliceblue;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  margin-top: 40px;
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 50px;
+}
+
+#container {
+  width: 600px;
+  height: 560px;
+  background-color: #292C6D;
+  -webkit-box-shadow: 5px 5px 30px 10px rgba(0, 0, 0, 0.2);
+          box-shadow: 5px 5px 30px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  color: #fafafa;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+ol {
+  color: #ffffff;
+  width: 400px;
+  font-family: "Roboto Mono", monospace;
+  font-size: 16px;
+}
+
+#howToCount {
+  margin-top: 20px;
+  width: 600px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+input {
+  width: 300px;
+  height: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  display: block;
+  margin: 25px auto 0 auto;
+  border: 1px solid white;
+  border-radius: 2px;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  display: block;
+  margin: 0 auto 0 auto;
+  font-size: 18px;
+  width: 150px;
+  margin-top: 25px;
+  height: 40px;
+  background-color: #fff;
+  font-family: "Roboto Mono", monospace;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  -webkit-box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.2);
+          box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.2);
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+button:hover {
+  margin-top: 20px;
+  background-color: #e9f5ff;
+}
+
+h3 {
+  position: absolute;
+  font-family: "Roboto Mono", monospace;
+  top: 585;
+  font-size: 22px;
+  margin-left: 257px;
+  color: #fff;
+}
+
+h4 {
+  position: absolute;
+  top: 630px;
+  font-size: 20px;
+  font-family: "Roboto Mono", monospace;
+  color: #fff;
+}
+
+#output {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=styles.css.map */
