@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Board {
+public class Board { //This is the default board. Used n for null.
 	private char[][] board = {
 			{'n', 'n', 'n'},
 			{'n', 'n', 'n'},
@@ -64,7 +64,7 @@ public class Board {
 		for (int g: xLocations) {
 			for (int m = 0; m < winCombos.length; m++) {
 				for (int r = 0; r < winCombos[m].length; r++) {
-					if (g == winCombos[m][r]  && checkDupe(g, xCount)) {
+					if (g == winCombos[m][r] && checkDupe(g, xCount)) {
 						xCount.add(g);
 					}
 				}
