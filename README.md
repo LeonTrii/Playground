@@ -10,7 +10,7 @@ Vue is my framework of choice!
 
 ### The set up
 ```
-npm intall
+npm install
 ```
 ### Running the server 
 ```
