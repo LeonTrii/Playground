@@ -4,6 +4,17 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 
 ## Project count: 51
 
+## Vue projects
+
+### The set up
+```
+npm intall
+```
+### Running the server 
+```
+npm run serve
+```
+
 ## Links
 
 I've used numerous websites for learning how to code. My profiles are listed below.
