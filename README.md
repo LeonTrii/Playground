@@ -6,6 +6,8 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 
 ## Vue projects
 
+Vue is my framework of choice!
+
 ### The set up
 ```
 npm intall
