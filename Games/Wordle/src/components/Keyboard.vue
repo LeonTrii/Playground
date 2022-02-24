@@ -118,6 +118,7 @@ const checkIfWordsMatch = word => {
             const element = document.getElementById(boxRef);
             const letter = document.getElementById(word[k]);
             if ((element.style.backgroundColor == 'rgb(17, 17, 17)' || element.style.backgroundColor == '' || element.style.backgroundColor == "#fafafa") && targetRandomWord[j] == word[k]) {
+                j++;
                 element.style.backgroundColor = '#c9b458';
                 element.style.borderColor = '#c9b458';
                 letter.style.backgroundColor = '#c9b458'; 
