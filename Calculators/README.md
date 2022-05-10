@@ -10,6 +10,8 @@ Chemistry-Conversions: A chemistry conversion program to help convert energy uni
 
 Interest: An interest calculator.
 
+Math Class: Made my own math class.
+
 Significant-Figures: Calculator for counting significant figures in large numbers.
 
 Mean_Var_Std: Calculates the mean, variance, and standard deviation from an array.
