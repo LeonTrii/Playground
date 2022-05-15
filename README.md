@@ -6,7 +6,7 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 
 ## Vue projects
 
-Vue is my framework of choice! My favorite thing about Vue are the for loops.
+My favorite thing about Vue are the for loops.
 
 ### The set up
 ```
