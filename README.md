@@ -24,13 +24,13 @@ I've used numerous websites for learning how to code. My profiles are listed bel
 ### Learning
 **Udemy: https://www.udemy.com/user/leon-truong-7/**
 
-**Codecademy: https://www.codecademy.com/profiles/LeonTrii**
+**Codecademy: https://www.codecademy.com/profiles/truongmleon**
 
 **Coursera: https://www.coursera.org/user/fd8e5eae86df0c50bc38726db46bf8e5**
 
-**HackerRank: https://www.hackerrank.com/LeonTrii**
+**HackerRank: https://www.hackerrank.com/truongmleoni**
 
-**Frontend Mentor: https://www.frontendmentor.io/profile/LeonTrii**
+**Frontend Mentor: https://www.frontendmentor.io/profile/truongmleon**
 
 **freeCodeCamp: https://www.freecodecamp.org/icantfindmyspider**
 
