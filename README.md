@@ -28,7 +28,7 @@ I've used numerous websites for learning how to code. My profiles are listed bel
 
 **Coursera: https://www.coursera.org/user/fd8e5eae86df0c50bc38726db46bf8e5**
 
-**HackerRank: https://www.hackerrank.com/truongmleoni**
+**HackerRank: https://www.hackerrank.com/truongmleon**
 
 **Frontend Mentor: https://www.frontendmentor.io/profile/truongmleon**
 
