@@ -4,6 +4,10 @@
 
 Connect-four: A connect four game for two players. 
 
+Hangman: Hangman game.
+
+HangmanaJava: Hangman but in Java.
+
 Tic-Tac-Toe-Board-Objects: Tic-Tac-Toe but the boards are objects in Java.
 
 Tic-Tac-Toe: Classic Tic-Tac-Toe game for two players.
