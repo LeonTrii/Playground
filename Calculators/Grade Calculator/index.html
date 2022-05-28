@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade Calculator</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <h1>Grade Calculator</h1>
+    <h2>This calculator is intended for the use of one course (not GPA)</h2>
+    <div id="container">
+        <button onclick="addAssignment()" id="btn">Add assignment</button>
+        <button onclick="calculate()">Calculate</button>
+        <div id="assignment" class="inputs">
+            <div id="percent">
+                <h3>Enter grade (%):</h3>
+                <input class="percent" type="number">
+            </div>
+            <div id="weight">
+                <h3>Enter weight (%):</h3>
+                <input class="weight" type="number">
+            </div>
+        </div>
+    </div>
+</body>
+    <script src="script.js"></script>
+</html>

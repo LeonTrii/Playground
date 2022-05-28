@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400&display=swap");
+body {
+  background-color: #f0e4fd;
+}
+
+html {
+  font-family: "Spartan", sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: auto;
+  border: 12px double;
+  -webkit-box-shadow: 30px 30px 30px rgba(0, 0, 0, 0.15);
+          box-shadow: 30px 30px 30px rgba(0, 0, 0, 0.15);
+}
+
+.inputs {
+  margin-top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin-bottom: 50px;
+}
+
+input {
+  font-family: "Spartan", sans-serif;
+  font-size: 2em;
+  width: 180px;
+  height: 60px;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  font-family: "Spartan", sans-serif;
+  display: block;
+  margin: 30px auto 0 auto;
+  font-size: 1.5em;
+  border-radius: 90px;
+  padding: 10px 20px 10px 20px;
+  border: 1px #cbe3fb solid;
+  background-color: #cbe3fb;
+  margin-bottom: 30px;
+  -webkit-transition: .4s;
+  transition: .4s;
+  -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  border: 1px #daecfe solid;
+  background-color: #daecfe;
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+}
+
+h3 {
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=styles.css.map */
