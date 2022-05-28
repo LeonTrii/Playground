@@ -8,6 +8,8 @@ Calculator: A simple calculator that does arithmetic.
 
 Chemistry-Conversions: A chemistry conversion program to help convert energy units and the temperature. I created this for my chemistry class to avoid googling extensively to check my answers. While the results aren't 100 percent accurate, it is good enough to check my answers.
 
+Grade Calculator: A way to check my grade if I do poorly on an assignment.
+
 Interest: An interest calculator.
 
 Math Class: Made my own math class.
