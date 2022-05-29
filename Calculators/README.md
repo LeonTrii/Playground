@@ -1,6 +1,6 @@
 # Calculator Projects
 
-## Math and science are my favorite subjects. Using math and computers to calculate things quickly is quite helpful and cool.
+## Math and science are my favorite subjects. I love computing and learning more about STEM!
 
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
