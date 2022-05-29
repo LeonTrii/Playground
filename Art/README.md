@@ -9,4 +9,4 @@ Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
 Kirby-animation: Waving Kirby with a beating heart on his left hand.
 
-Mole: A mole for my Whack-A-Mole game: https://github.com/LeonTrii/Playground/tree/main/Games/Whack-A-Mole
+Mole: A mole for my Whack-A-Mole game: https://github.com/truongmleon/Playground/tree/main/Games/Whack-A-Mole
