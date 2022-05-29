@@ -12,7 +12,7 @@ Tic-Tac-Toe-Board-Objects: Tic-Tac-Toe but the boards are objects in Java.
 
 Tic-Tac-Toe: Classic Tic-Tac-Toe game for two players.
 
-Unbeatable-Pong-Game: Retro Pong Game with unbeatable AI. Also, the first project of this year!
+Unbeatable-Pong-Game: Retro Pong Game with unbeatable AI. Also, the first project of the 2022 year!
 
 Whack-a-mole: Simple Whack-a-mole game. myMole.png is from mole.html. I used CSS to add color to the mole.
 
