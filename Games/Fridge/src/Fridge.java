@@ -317,13 +317,6 @@ public class Fridge extends Application implements EventHandler<ActionEvent> {
 				"|   Apple Apple Apple Water   ||||||||||||||||||||||\r\n" + 
 				"|   Apple Apple Apple Water   |||||||||||||||||||||| \r\n" + 
 				"|=============================||||||||||||||||||||||\r\n" + 
-				"Incorrect cabinet. There must be Apple Apple or Water Water together:\r\n" + 
-				"|=============================||||||||||||||||||||||\r\n" + 
-				"|   Apple Water Apple Water   ||||||||||||||||||||||\r\n" + 
-				"|   Apple Water Apple Water   ||||||||||||||||||||||\r\n" + 
-				"|   Apple Water Apple Water   ||||||||||||||||||||||\r\n" + 
-				"|   Apple Water Apple Water   ||||||||||||||||||||||\r\n" + 
-				"|=============================||||||||||||||||||||||\r\n" + 
 				"Incorrect cabinet. It has 5 spaces on the right (should be 3 or 4):\r\n" + 
 				"|=============================||||||||||||||||||||||\r\n" + 
 				"|   Apple Water Milk Milk     ||||||||||||||||||||||\r\n" + 
