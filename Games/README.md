@@ -4,6 +4,8 @@
 
 Connect-four: A connect four game for two players. View it here: https://replit.com/@LeonTrii/Connect-Four#index.html
 
+Fridge: Fill Up the Fridge game for my final APCS project.
+
 Hangman: Hangman game.
 
 HangmanaJava: Hangman but in Java.
