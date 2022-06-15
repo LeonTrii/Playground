@@ -219,7 +219,7 @@ public class Fridge extends Application implements EventHandler<ActionEvent> {
 					throw new Exception("no");
 				}
 			} catch (Exception e) {
-				notValidInput = new Alert(AlertType.ERROR, "Must enter a number between 1-3, unless that cabinet is full",ButtonType.APPLY);
+				notValidInput = new Alert(AlertType.ERROR, "Must enter a number between 1-3.",ButtonType.APPLY);
 				notValidInput.show();
 				text.clear();
 			}
