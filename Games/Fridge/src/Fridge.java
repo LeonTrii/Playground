@@ -48,7 +48,7 @@ public class Fridge extends Application implements EventHandler<ActionEvent> {
 	private ArrayList<String> levelThreeItems = new ArrayList<String>(Arrays.asList(
 			"Water", "Water", "Water", "Water", "Water",
 			"Water", "Water", "Water", "Water",
-			"Apple", "Apple", "Apple",
+			"Apple", "Milk", "Milk",
 			"Milk", "Milk", "Milk", "Milk", "Milk",
 			"Milk", "Milk", "Milk", "Milk", "Milk",
 			"DozenEggs", "DozenEggs", "DozenEggs", "DozenEggs",
