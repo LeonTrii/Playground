@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+* {
+  font-family: "Manrope", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #fafafa;
+  font-size: 1em;
+}
+
+.attribution a {
+  color: #cfe8fe;
+  font-size: 1em;
+}
+
+body {
+  background-color: #1f2632;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 200px;
+  height: 100%;
+}
+
+#container {
+  width: 450px;
+  height: 260px;
+  background-color: #323a49;
+  border-radius: 18px;
+  -webkit-box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, 0.1);
+          box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, 0.1);
+}
+
+#adviceNumber {
+  font-size: .8em;
+  color: #52ffa8;
+  font-weight: 300;
+  margin-top: 39px;
+}
+
+#advice {
+  text-align: center;
+}
+
+#quote {
+  font-size: 20px;
+  text-align: center;
+  color: #cee3e9;
+  width: 390px;
+  margin-top: 23px;
+}
+
+.flexQuote {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#desktop {
+  position: absolute;
+  width: 390px;
+  top: 390px;
+}
+
+footer {
+  margin-top: 200px;
+}
+
+#dice {
+  margin-top: 4px;
+  width: 22px;
+}
+
+button {
+  position: absolute;
+  top: 430px;
+  width: 55px;
+  height: 55px;
+  border-radius: 60px;
+  background-color: #52ffa8;
+  border: 1px solid #52ffa8;
+  -webkit-transition: 0.3;
+  transition: 0.3;
+}
+
+button:hover {
+  -webkit-box-shadow: 0px 0px 28px 2px #80ffbf;
+          box-shadow: 0px 0px 28px 2px #80ffbf;
+}
+
+#mobile {
+  display: none;
+}
+
+@media (max-width: 450px) {
+  #container {
+    width: 280px;
+  }
+  #mobile {
+    position: absolute;
+    display: block;
+    width: 220px;
+    top: 400px;
+  }
+  #desktop {
+    display: none;
+  }
+  #quote {
+    font-size: 16px;
+    width: 200px;
+  }
+  #adviceNumber {
+    font-size: .6em;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
