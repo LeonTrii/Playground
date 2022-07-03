@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+$font: 'Josefin Sans', sans-serif;
+$font2: 'Courgette', cursive;
+$white: #fafafa;
+$black: #000;
+
+html {
+    background-color: #f7f3f1 !important;
+}
+
+body {
+    height: calc(100% + 1180em);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    transition: .8s;
+    margin-left: 1040px;
+    width: 160em;
+    height: 18em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+}
+
+.nav {
+    text-decoration: none;
+    color: $black;
+    font-family: $font;
+    position: absolute;
+    margin-top: -20px;
+    font-size: 9em;
+    transition: 0.5s;
+}
+
+.nav:hover {
+    text-shadow: 8px 8px rgba(0, 0, 0, .2);
+}
+
+@media (max-width: 1600px) {
+    .nav {
+        font-size: 8em;
+    }
+
+    #main {
+        width: 140em;
+    }
+}
+
+@media (max-width: 1250px) {
+    #name {
+        font-size: 4vw
+    }
+
+    .nav {
+        font-size: 6em;
+    }
+}
+
+@media (max-width: 1000px) {
+    .nav {
+        font-size: 5.5em;
+    }
+}
+
+@media (max-width: 940px) {
+    #main {
+        height: 15.8em;
+    }
+    
+    nav .nav { 
+        display: none; 
+    }
+
+    #menu ul li a {
+        font-size: 4vw;
+    }
+  }
+
+  @media (max-width: 700px) {
+    #menu ul li a {
+        font-size: 6vw;
+    }
+}
+
+@media (max-width: 500px) {
+    #menu ul li a {
+        font-size: 8vw;
+    }
+}
+
+@media (max-width: 1860px) {
+    #main {
+        margin-left: 940px;
+    }
+}

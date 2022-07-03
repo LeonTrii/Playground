@@ -1,0 +1,168 @@
+@media (max-width: 1600px) {
+  .welcome {
+    font-size: 28rem !important;
+  }
+  #rectangleOne {
+    margin-left: 890px;
+  }
+  #boxOne {
+    margin-top: 500px;
+    margin-left: 1170px;
+  }
+  #boxTwo {
+    margin-left: 1230px;
+  }
+  #circleOne {
+    margin-left: 1230px;
+  }
+  #containerVisual {
+    margin-left: 600px;
+  }
+  #GitHubIcon, #TwitterIcon, #CodePenIcon {
+    margin-left: 1060px;
+    margin-top: 270px;
+    font-size: .9em;
+  }
+  #TwitterIcon {
+    margin-left: 1170px;
+    margin-top: 334px;
+  }
+  #CodePenIcon {
+    margin-top: 400px;
+    margin-left: 1280px;
+  }
+  div a span {
+    font-size: 14em;
+    width: 100px;
+    height: 100px;
+  }
+  div a span:nth-child(5) {
+    -webkit-transform: translate(-80px, -80px);
+            transform: translate(-80px, -80px);
+  }
+  div a span:nth-child(4) {
+    -webkit-transform: translate(-55px, -55px);
+            transform: translate(-55px, -55px);
+  }
+  div a span:nth-child(3) {
+    -webkit-transform: translate(-30px, -30px);
+            transform: translate(-30px, -30px);
+  }
+  div a span:nth-child(2) {
+    -webkit-transform: translate(-5px, -5px);
+            transform: translate(-5px, -5px);
+  }
+  div a span:nth-child(1) {
+    -webkit-transform: translate(20px, 20px);
+            transform: translate(20px, 20px);
+  }
+  #colorPads div:nth-child(1) {
+    margin-left: 870px;
+  }
+  #colorPads div:nth-child(2) {
+    margin-left: 1080px;
+  }
+  #colorPads div:nth-child(3) {
+    margin-left: 980px;
+  }
+  #colorPads div:nth-child(4) {
+    margin-left: 1180px;
+  }
+  #colorPads div:nth-child(5) {
+    margin-left: 1250px;
+  }
+  #colorPads div:nth-child(6) {
+    margin-left: 890px;
+  }
+  #colorPads div:nth-child(7) {
+    margin-left: 1070px;
+  }
+  #colorPads div:nth-child(8) {
+    margin-left: 690px;
+  }
+  #colorPads div:nth-child(9) {
+    margin-left: 1230px;
+  }
+  #colorPads div:nth-child(10) {
+    margin-left: 660px;
+  }
+  #bubbles div:nth-child(1) {
+    margin-left: 930px;
+  }
+  #bubbles div:nth-child(2) {
+    margin-left: 850px;
+  }
+  #bubbles div:nth-child(3) {
+    margin-left: 1130px;
+  }
+  #bubbles div:nth-child(4) {
+    margin-left: 960px;
+  }
+  #bubbles div:nth-child(5) {
+    margin-left: 1210px;
+  }
+  #bubbles div:nth-child(6) {
+    margin-left: 1040px;
+  }
+  #rectangles div:nth-child(1) {
+    margin-left: 710px;
+  }
+  #rectangles div:nth-child(2) {
+    margin-left: 810px;
+  }
+  #rectangles div:nth-child(3) {
+    margin-left: 1010px;
+  }
+  #rectangles div:nth-child(4) {
+    margin-left: 990px;
+  }
+  #rectangles div:nth-child(5) {
+    margin-left: 470px;
+  }
+  #blobs div:nth-child(1) {
+    margin-left: 1050px;
+  }
+  #blobs div:nth-child(2) {
+    margin-left: 1150px;
+  }
+  #blobs div:nth-child(3) {
+    margin-left: 850px;
+  }
+  #blobs div:nth-child(4) {
+    margin-left: 710px;
+  }
+  #ticSquares div:nth-child(1) {
+    margin-left: 900px;
+  }
+  #ticSquares div:nth-child(2) {
+    margin-left: 600px;
+  }
+  #ticSquares div:nth-child(3) {
+    margin-left: 1200px;
+  }
+  #ticSquares div:nth-child(4) {
+    margin-left: 1080px;
+  }
+  #ticSquares div:nth-child(5) {
+    margin-left: 1180px;
+  }
+  #layers div:nth-child(1) {
+    margin-top: 270px;
+  }
+  #layers div:nth-child(2) {
+    margin-top: 550px;
+  }
+  #layers div:nth-child(3) {
+    margin-top: 270px;
+  }
+  #main {
+    margin-left: 880px;
+  }
+  .container {
+    margin-left: 900px;
+  }
+  #aboutMe, #bottom, #paraTop, #paraBottom {
+    width: 750px;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
