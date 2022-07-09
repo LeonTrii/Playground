@@ -8,6 +8,8 @@ Calculator: A simple calculator that does arithmetic. View it here: https://code
 
 Chemistry-Conversions: A chemistry conversion program to help convert energy units and the temperature. I created this for my chemistry class to avoid googling extensively to check my answers. While the results aren't 100 percent accurate, it is good enough to check my answers. View it here: https://replit.com/@LeonTrii/Chemistry-Conversions
 
+Finding the 6 trig. functions given a point: A calculator to help me check my work for the 6 trig functions. https://replit.com/@LeonTrii/Finding-the-6-trig-functions-given-a-point
+
 Grade Calculator: A way to check my grade if I do poorly on an assignment. View it here: https://replit.com/@LeonTrii/Grade-Calculator
 
 Interest: An interest calculator. View it here: https://replit.com/@LeonTrii/Interest
