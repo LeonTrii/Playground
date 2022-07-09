@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital@1&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Finlandica', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    position: relative;
+    top: 70;
+    user-select: none;
+}
+
+body {
+    background-color: rgb(209, 255, 209);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 40px 10px rgba(0, 0, 0, 0.1);
+    top: 120px;
+}
+
+input {
+    position: relative;
+    top: 50;
+    width: 200px;
+    height: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3em;
+    border: 6px double;
+    transition: 0.2s;
+    box-shadow: 6px 6px 40px 10px rgba(0, 0, 0, 0.1);
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+label {
+    position: absolute;
+    transition: 0.2s;
+    font-size: 1.5em;
+    user-select: none;
+    transform: translateX(12px);
+}
+
+input:focus ~ label, input:valid ~ label {
+    transform: translateX(-5px) translateY(-45px);
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+ul {
+    position: relative;
+    list-style-type: lower-greek;
+    font-size: 2em;
+    top: 140;
+    user-select: none;
+}
+
+button {
+    position: absolute;
+    display: block;
+    width: 120px;
+    top: 170;
+    height: 50px;
+    font-size: 1.5em;
+    border-radius: 20px;
+    background-color: white;
+    border: 1px solid white;
+    box-shadow: 6px 6px 40px 10px rgba(0, 0, 0, 0.1);
+    transition: 0.4s;
+}
+
+button:hover {
+    transform: translateY(-6px);
+    background-color: aliceblue;
+    border: 1px solid aliceblue;
+    box-shadow: 6px 6px 20px 10px rgba(109, 109, 109, 0.1);
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+    top: 20;
+}
