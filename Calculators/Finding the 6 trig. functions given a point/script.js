@@ -42,7 +42,23 @@ btn.addEventListener("click", () => {
 
     //Rationalizing
 
+    for (let j = 0; j < trigValue.length; j++) {
+        
+        //Searches past the division sign, looking for square roots.
+        let leftSide = trigValue[j].substring(0, trigValue[j].indexOf('/') - 1);
+        let rightSide = trigValue[j].substring(trigValue[j].indexOf('/') + 2);
+        const indexOfRoot = rightSide.indexOf("√");
+        if (indexOfRoot != -1) {
+            rightSide = rightSide.replace("√", ' ');
+            leftSide += "√" + rightSide.substring(indexOfRoot + 1);
+            let indexOfSpace = rightSide.indexOf(" ");
 
+            rightSide = parseFloat(rightSide.substring(0, indexOfSpace)) * parseFloat(rightSide.substring(indexOfSpace + 1));
+        }
+
+
+        trigValue[j] = leftSide + " / " + rightSide;
+    }
 
     trigFunctions[0].innerHTML = `Sin θ = ${trigValue[0]}`;
     trigFunctions[1].innerHTML = `Cos θ = ${trigValue[1]}`;
