@@ -2,7 +2,7 @@
 
 Hello, I started learning how to code on July 3rd, 2021. The aspect of problem solving makes it very enjoyable.
 
-## Project count: 71
+## Project count: 66
 
 ## Vue projects
 
