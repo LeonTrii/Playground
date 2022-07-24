@@ -16,6 +16,8 @@ Interest: An interest calculator. View it here: https://replit.com/@LeonTrii/Int
 
 Math Class: Made my own math class.
 
+Quadratic Factor Machine: Solve a quadratic in standard form! https://replit.com/@LeonTrii/Quadratic-Factor-Machine
+
 Significant-Figures: Calculator for counting significant figures in large numbers. View it here: https://replit.com/@LeonTrii/Significant-Figures
 
 Mean_Var_Std: Calculates the mean, variance, and standard deviation from an array.
