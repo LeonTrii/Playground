@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    position: relative;
+    top: 50
+}
+
+main { 
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.8em;
+    width: 200px;
+    height: 60px;
+    
+    font-family: 'Poppins', sans-serif;
+    top: 50;
+    border-radius: 5px;
+    border-color: #000;
+}
+
+input:focus ~ label, input:valid ~ label {
+    top: 15;
+    left: 90;
+    background-color: rgb(238, 205, 255);
+    border: 3px solid rgb(103, 103, 244);
+}
+
+label {
+    position: absolute;
+    font-size: 1.8em;
+    left: 100;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.4s;
+    height: 45px;
+    width: 190px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 100;
+    font-size: 2em;
+}
+
+#container {
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background-color: rgb(238, 205, 255);
+    top: 100;
+    box-shadow: 10px 10px 40px 10px rgba(0, 0, 0, 0.1);
+}
+
+#btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 80;
+    height: 50px;
+    width: 150px;
+    font-size: 1.8em;
+    box-shadow: 5px 5px 20px 5px rgba(60, 60, 60, 0.1);
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.4s;
+}
+
+#btn:hover {
+    transform: translateY(-9px);
+    box-shadow: 3px 3px 2px 3px rgba(60, 60, 60, 0.1);
+}
