@@ -20,4 +20,6 @@ Quadratic Factor Machine: Solve a quadratic in standard form! https://replit.com
 
 Significant-Figures: Calculator for counting significant figures in large numbers. View it here: https://replit.com/@LeonTrii/Significant-Figures
 
+Cash Register: Keep track of money while being a cashier
+
 Mean_Var_Std: Calculates the mean, variance, and standard deviation from an array.
