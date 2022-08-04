@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 100px;
+}
+
+#navbar {
+  width: 550px;
+  height: 91px;
+  background: #21222A;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 30px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#navTitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  letter-spacing: -0.05em;
+  color: #61DAFB;
+}
+
+#project1 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #DEEBF8;
+}
+
+#navLeft {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 158px;
+  background: #21222A;
+}
+
+#icon1 {
+  height: 25px;
+  width: 29px;
+}
+
+#mainContainer {
+  position: absolute;
+  width: 550px;
+  height: 459px;
+  background: #282D35;
+}
+
+#titleOfMain {
+  position: absolute;
+  left: 27px;
+  top: 57px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 47px;
+  letter-spacing: -0.05em;
+  color: #FFFFFF;
+}
+
+ul {
+  position: relative;
+  width: 390px;
+  height: 190px;
+  left: 74px;
+  top: 122px;
+}
+
+li {
+  position: relative;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  padding-top: 20.4px;
+  color: #FFFFFF;
+}
+
+li::marker {
+  padding-right: 20px;
+  font-size: 1.6em;
+  color: #61DAFB;
+}
+
+#imageTwo {
+  position: absolute;
+  left: 418px;
+  top: 107px;
+}
+/*# sourceMappingURL=styles.css.map */
