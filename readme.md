@@ -4,7 +4,7 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 
 ## Project count: 70
 
-## Vue projects
+## Vue.js
 
 My favorite thing about Vue are the for loops.
 
@@ -15,6 +15,15 @@ npm install
 ### Running the server 
 ```
 npm run serve
+```
+## React.js 
+
+Do:
+```
+npm install```
+
+```
+npm run dev
 ```
 
 ## Links
