@@ -20,11 +20,10 @@ npm run serve
 
 Do:
 ```
-npm install```
-
-```
+npm install
 npm run dev
 ```
+
 
 ## Links
 
