@@ -9,9 +9,6 @@ My favorite thing about Vue are the for loops.
 ### The set up
 ```
 npm install
-```
-### Running the server 
-```
 npm run serve
 ```
 ## React.js 
