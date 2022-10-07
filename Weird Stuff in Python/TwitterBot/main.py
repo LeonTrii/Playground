@@ -17,7 +17,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True);
 letters = "i";
 
 while 1:
-    #api.send_direct_message("1475688412292157440", "LARGE FUCKING BALL" +  letters)
+    #api.send_direct_message("14", "L" +  letters)
     letters += "i"
     api.update_status("@ShadowHLX h" + letters);
     #letters += "."
