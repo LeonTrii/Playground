@@ -19,6 +19,6 @@ letters = "i";
 while 1:
     #api.send_direct_message("14", "L" +  letters)
     letters += "i"
-    api.update_status("@ShadowHLX h" + letters);
+    api.update_status("@ h" + letters);
     #letters += "."
     #api.update_status(i + letters)
