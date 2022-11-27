@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Roboto+Mono&display=swap');
+
+$manrope: 'Manrope', sans-serif;
+$montserrat: 'Montserrat', sans-serif;
+$roboto: 'Roboto Mono', monospace;
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-family: $manrope;
+    width: 80%;
+    font-size: 1.2em;
+    
+}
+
+.nav-btn {
+    background-color: #fafafa;
+    width: 100%;
+}
+
+.nav-btn:hover {
+    background-color: #fafafa;
+}
