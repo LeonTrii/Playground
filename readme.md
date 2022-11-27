@@ -39,6 +39,10 @@ I've used numerous websites for learning how to code. My profiles are listed bel
 
 **SoloLearn: https://www.sololearn.com/profile/21424414**
 
+### Old Scratch Account
+
+**https://scratch.mit.edu/users/minhleon/**
+
 ### Hosting (I mainly use GitHub for showing my code)
 
 **Replit: https://replit.com/@LeonTrii**
