@@ -1,26 +1,26 @@
 const Header = () => {
   return (
     <nav className="">
-      <ul id='nav'>
-        <li className="nav-btn">Analysis</li>
+      <div id='nav'>
+        <a className="nav-btn" href="#outline">Outline</a>
           {
           // Message, main idea
           }
-        <li className="nav-btn">About the Author</li>
-        <li className="nav-btn">Purpose</li>
-        <li className="nav-btn">Audience</li>
-        <li className="nav-btn">Context</li>
-        <li className="nav-btn">Exigence</li>
-        <li className="nav-btn">Rhetorical Choices</li>
+        <a className="nav-btn" href="#author">About the Author</a>
+        <a className="nav-btn" href="#purpose">Purpose</a>
+        <a className="nav-btn" href="#audience">Audience</a>
+        <a className="nav-btn" href="context">Context</a>
+        <a className="nav-btn" href="#exigence">Exigence</a>
+        <a className="nav-btn" href="#choices">Rhetorical Choices</a>
         {
           /** 
            * choose from: modes, arrangements, devices, diction, syntax), appeal (at least one of the 
             three), and tone included. 
           */
         }
-        <li className="nav-btn">Buy</li>
-        <li className="nav-btn">Attributions</li>
-      </ul>
+        <a className="nav-btn" href="#buy">Buy</a>
+        <a className="nav-btn" href="#references">References</a>
+      </div>
     </nav>
   )
 }
