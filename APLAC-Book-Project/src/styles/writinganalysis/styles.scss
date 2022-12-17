@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+#writing-header {
+    text-align: center;
+    font-family: 'Rubik Mono One', cursive;
+    font-size: 9em;
+}
+
+.analysis-header {
+    font-family: 'Patua One', cursive;
+    font-size: 3em;
+    position: relative;
+    left: 100px;
+    border-bottom: double 12px #000;
+    width: 45%;
+}
+
+#content-arrangements, #content-diction, #content-devices, #content-appeals, #content-tone, #content-final {
+    width: 60%;
+    border: double 9px #000;
+    height: auto;
+    box-shadow: 7px 8px 3px 1px rgba(70, 70, 70, 0.1);
+}
+
+#content-arrangements {
+    background-color: aliceblue;
+}
+
+#content-devices {
+    background-color: rgb(249, 240, 255);
+}
+
+#content-diction {
+    background-color: rgb(255, 240, 240);
+}
+
+#content-appeals {
+    background-color: rgb(255, 255, 240);;
+}
+
+#content-tone {
+    background-color: rgb(240, 251, 255);;
+}
+
+#content-final {
+    background-color: rgb(249, 240, 255);;
+}
+
+.content-titles {
+    font-size: 1.8em;
+    padding: 10px;
+    margin: 0;
+    font-family: 'Patua One', cursive;
+    border-bottom: solid 3px #000;
+}
+
+.content-text {
+    padding: 10px;
+    margin: 0;
+    font-size: 1.2em;
+    font-family: 'Poppins', sans-serif;
+}
+

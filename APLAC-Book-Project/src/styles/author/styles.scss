@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+$manrope: 'Manrope', sans-serif;
+$montserrat: 'Montserrat', sans-serif;
+$roboto: 'Roboto Mono', monospace;
+$title: 'Permanent Marker', cursive;
+$lexend: "Lexend Deca", sans-serif;
+
+#author-header {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 2.5em;
+    position: relative;
+    top: 300px;
+    background-color: aliceblue;
+    padding: 5px 10px 5px 10px;
+    width: 50%; 
+    border: double 9px #000;
+    box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
+    text-shadow: 4px 3px rgb(255, 255, 255);
+}
+
+#mark1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    position: relative;
+    top: 350px;
+    border: 9px double #000;
+    box-shadow: 5px 5px 5px 1px rgba(80, 80, 80, 0.1);
+}
+
+#about-mark {
+    font-size: 1.4em;
+    font-family: 'Lora', serif;
+    width: 50%;
+    position: relative;
+    top: 400px;
+}
+
+.quote {
+    font-size: 1.4em;
+    font-family: 'Lora', serif;
+    width: 50%;
+    position: relative;
+    top: 390px;
+}
