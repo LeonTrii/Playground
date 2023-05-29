@@ -20,4 +20,4 @@ class InstagramBot:
         self.driver.find_element(By.TAG_NAME, "button").click();
         sleep(20);
 
-InstagramBot("pieappleii", open("password.txt", "r").read())
+InstagramBot("", open("password.txt", "r").read())
