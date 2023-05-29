@@ -11,3 +11,9 @@ To mess with friends.
 
 ## Twitter Bot 
 Likely doesn't work anymore because of Twitter API.
+
+## YouTube Downloader Bot
+Used to download a Youtube Playlist
+
+## isOdd
+It's in the name.
