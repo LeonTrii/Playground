@@ -2,6 +2,8 @@
 import os;
 import random;
 import discord;
+import openai;
+from discord.ext import commands;
 from monitor import monitor;
 
 data_links = ['https://media.discordapp.net/attachments/770856900111761451/872960405679525919/image0.gif',
@@ -12,7 +14,7 @@ data_links = ['https://media.discordapp.net/attachments/770856900111761451/87296
               'https://images-ext-2.discordapp.net/external/XGqb3Y8v6tf7oGjDentrO-a8Pcsu1SWmnKZzWF8kwh8/%3Fv%3D1/https/cdn.discordapp.com/emojis/794622263076847636.gif',
               'https://images-ext-2.discordapp.net/external/K_FbPSLbA7F5h64OpDHLQZxQd33rlVNiruJJEJmiWBI/%3Fv%3D1/https/cdn.discordapp.com/emojis/715585420091719721.gif',
               'https://images-ext-2.discordapp.net/external/Bv84dmJ_cShLnL_WpkGJB7MfSiQozVA3kA7IL37C57I/%3Fsize%3D56/https/cdn.discordapp.com/emojis/525603859830407168.gif',
-              'https://images-ext-1.discordapp.net/external/EVkxZT_FR4bGVu-61IiH9vBu1zQONEcB3hCx7oGZy2s/https/media.discordapp.net/attachments/770856900111761451/942171755051642910/IMG_4146.gif',
+              'https://images-ext-1.discordapp.net/external/zoJHi0a_IHJ99DnfTgJACbogU0jPxof4bW6xDaWrdMs/%3Fsize%3D300%26quality%3Dlossless/https/cdn.discordapp.com/emojis/1011414829866696744.gif',
               'https://images-ext-2.discordapp.net/external/cYynFaYEEDTp60CaXW8xHuHXda7oZj88YAtUtQKftF4/%3Fsize%3D96%26quality%3Dlossless/https/cdn.discordapp.com/emojis/969784235974078585.gif',
               'https://images-ext-2.discordapp.net/external/-bzMSaGmT6sptUgc2DJy9TK2suvfBLGXW0T755YHQpc/https/media.discordapp.net/attachments/770856900111761451/977406276000706610/D58CD9C6-DC5D-440B-A8E3-CFA786BA7FF4.gif',
               'https://images-ext-2.discordapp.net/external/RngP8eGDE-5sVCdTucPu8igZpfETIiYLMqsvhzncw4I/%3Fsize%3D44%26quality%3Dlossless/https/cdn.discordapp.com/emojis/873012135272251482.gif', 
@@ -47,14 +49,45 @@ data = {
   "casey": "2d women lover",
 }
 
+quotes = [
+  "do you accept this as fact",
+  "strategic gap",
+  "conveniently cancel",
+  "g(x)^2 for some reason",
+  "ksd has failed you",
+  "I don't blame students for being burnt out",
+  "between one and three out of your precious 108 points",
+  "matchy matchy",
+  "we be creepin we be creepin",
+  "big boy big girl big non binary angle",
+  "big ol' squirrel",
+  "squirrel is at rest",
+  "take the L and move on",
+  "desmos is really well-programmed",
+  "everything you learn from kindergarten is fair game for the AP exam",
+  "I am not here to ruin your gpa",
+  "Sometimes the absolute value doesn’t really do anything",
+  "LINE ACROSS YOUR PAPER",
+  "so convenient",
+  "caleb what kinda dumbass question is that",
+  "k equals some constant",
+  "UW is where med school dreams go die",
+  "... ok",
+  "soft pillowy curve",
+  "Seperate dem variables!"
+];
+
+# Set the API key
+openai.api_key = os.getenv("APIKEY");
+
 # Connection to Discord
 client = discord.Client();
 @client.event
 
 async def on_ready():
   print(f'{client.user}');
-  await client.change_presence(activity=discord.Game('with balls'))  
-
+  await client.change_presence(activity=discord.Game(os.getenv("TEXT")));
+  #await client.change_presence(activity=discord.Game('with balls'))  
 
 # Triggers when message is sent
   
@@ -63,8 +96,6 @@ async def on_message(msg):
 
   # Checks if the author of the message
   # Is from the bot
-  if msg.author == client.user:
-    return;
 
   message = msg.content.lower();
 
@@ -74,15 +105,32 @@ async def on_message(msg):
   
   if message.startswith("spam"):
 
-      while True:
+      for i in range(0, 5):
+      #while 1:
         await msg.channel.send(msg.content[4:]);
         
-  
   if message == "amogus":
-    msg.channel.send(file=discord.File(
-      await cats[random.randint(0, len(cats) - 1)]
+    await msg.channel.send(file=discord.File(
+      cats[random.randint(0, len(cats) - 1)]
    ));
 
+  if message == "harp":
+      await msg.channel.send(quotes[random.randint(0, len(quotes) - 1)]);
+
+  if message.startswith("!ask"):
+    message = message[4:];
+    # Generate a response from the gpt model
+    await msg.channel.send(openai.Completion.create(
+    engine="text-davinci-003",
+    prompt=message,
+    max_tokens=1024,
+    temperature=1.2,
+    ).choices[0].text);
+    
 monitor();
+
+class music(commands.Cog):
+  def init(self, client):
+    self.client = client;
 
 client.run(os.getenv("TOKEN"));
