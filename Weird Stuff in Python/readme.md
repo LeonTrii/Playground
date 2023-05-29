@@ -1,5 +1,8 @@
 # Weird Stuff in Python
 
+## Autoclicker
+Made for Bee Swarm Simulator.
+
 ## Discord Bot
 Bot I made for friend's Discord.
 
