@@ -1,6 +1,6 @@
 # First 13 months
 
-## Project count: 60
+## Project count: 70
 
 I created my first coding project on 08/13/2021.
 
