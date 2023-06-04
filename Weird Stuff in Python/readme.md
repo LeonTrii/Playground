@@ -16,7 +16,7 @@ To mess with friends.
 Likely doesn't work anymore because of Twitter API.
 
 ## YouTube Downloader Bot
-Used to download a Youtube Playlist
+Used to download a Youtube Playlist to MP3.
 
 ## isOdd
 It's in the name.
