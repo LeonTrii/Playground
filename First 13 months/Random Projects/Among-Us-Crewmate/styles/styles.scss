@@ -1,0 +1,97 @@
+$red: #d92828;
+$blue: #b4cefb;
+$white: #fafafa;
+
+body {
+    background-color: #e6e6e6;
+}
+
+#one {
+    width: 128px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+#two {
+    width: 192px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 368px;
+    margin-top: 232px;
+}
+
+#three {
+    width: 224px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 368px;
+    margin-top: 264px;
+}
+
+#threeGlass {
+    width: 96px;
+    height: 32px;
+    background-color: $blue;
+    position: absolute;
+    margin-left: 432px;
+    margin-top: 264px;
+}
+
+#threeShine {
+    width: 64px;
+    height: 32px;
+    background-color: $white;
+    position: absolute;
+    margin-left: 528px;
+    margin-top: 264px;
+}
+
+#four {
+    width: 288px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 304px;
+    margin-top: 296px;
+}
+
+#fourGlass {
+    width: 160px;
+    height: 32px;
+    background-color: $blue;
+    position: absolute;
+    margin-left: 432px;
+    margin-top: 296px;
+}
+
+#five {
+    width: 288px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 304px;
+    margin-top: 328px;
+}
+
+#six {
+    width: 288px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 304px;
+    margin-top: 360px;
+}
+
+#seven {
+    width: 288px;
+    height: 32px;
+    background-color: $red;
+    position: absolute;
+    margin-left: 304px;
+    margin-top: 392px;
+}

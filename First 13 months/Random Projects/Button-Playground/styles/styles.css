@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Mono&display=swap");
+h1, h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+#buttons {
+  padding: 20px;
+  width: 800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+button {
+  width: 180px;
+  height: 60px;
+  background-color: white;
+  border-radius: 45px;
+  border: 1px solid #e2e2e2;
+  -webkit-box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
+          box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.5rem;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+#hover:hover {
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+  -webkit-box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, 0.1);
+          box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, 0.1);
+}
+
+#teal:hover {
+  background-color: #2EE59D;
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+  color: #fafafa;
+  -webkit-box-shadow: 3px 3px 10px 1px #92f7ce;
+          box-shadow: 3px 3px 10px 1px #92f7ce;
+}
+
+#purple:hover {
+  background-color: #e4cbfe;
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+  -webkit-box-shadow: 3px 3px 10px 1px #e8d7fa;
+          box-shadow: 3px 3px 10px 1px #e8d7fa;
+}
+
+#pink {
+  background-color: #ffdaf6;
+  -webkit-box-shadow: 2px 2px 5px 5px #fdeefa;
+          box-shadow: 2px 2px 5px 5px #fdeefa;
+}
+
+#pink:hover {
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+  background-color: #ffc7ff;
+  -webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+          box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+/*# sourceMappingURL=styles.css.map */

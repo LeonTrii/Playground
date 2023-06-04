@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Mono&display=swap');
+$font: 'Roboto Mono', monospace;
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+#buttons {
+    padding: 20px;
+    width: 800px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    width: 180px;
+    height: 60px;
+    background-color: white;;
+    border-radius: 45px;
+    border: 1px solid #e2e2e2;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
+    font-family: $font;
+    font-size: 1.5rem;
+    transition: .5s;
+}
+
+#hover:hover {
+    transform: translateY(-7px);
+    box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, 0.1);
+}
+
+#teal:hover {
+    background-color: #2EE59D;
+    transform: translateY(-7px);
+    color: #fafafa;
+    box-shadow: 3px 3px 10px 1px #92f7ce;
+}
+
+#purple:hover {
+    background-color: #e4cbfe;
+    transform: translateY(-7px);
+    box-shadow: 3px 3px 10px 1px #e8d7fa;
+}
+
+#pink {
+    background-color: #ffdaf6;
+    box-shadow: 2px 2px 5px 5px #fdeefa;
+}
+
+#pink:hover {
+    transform: translateY(-7px);
+    background-color: #ffc7ff;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
