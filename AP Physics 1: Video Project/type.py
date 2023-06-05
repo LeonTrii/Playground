@@ -20,8 +20,8 @@ class Type(Scene):
         );
         sinx = CreateSin(plane, 0, 8 * pi, BLUE, y_constant = 2);
         AnimateTitle(self, title);
-        self.play(Write(longitudinal), run_time = 1.5);
         self.play(Write(transverse), run_time = 1.5);
+        self.play(Write(longitudinal), run_time = 1.5);
         self.wait(2);
         self.play(Create(sinx), run_time = 1.5);
         plane = Axes(
