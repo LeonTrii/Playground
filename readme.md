@@ -6,14 +6,14 @@ Hello, I started learning how to code on July 3rd, 2021. The aspect of problem s
 
 My favorite thing about Vue are the for loops.
 
-### The set up
+Run:
 ```
 npm install
 npm run serve
 ```
 ## React.js 
 
-Do:
+Run:
 ```
 npm install
 npm run dev
