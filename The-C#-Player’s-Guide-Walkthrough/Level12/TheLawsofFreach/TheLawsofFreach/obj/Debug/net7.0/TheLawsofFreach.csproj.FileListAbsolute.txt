@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/bin/Debug/net7.0/TheLawsofFreach
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/bin/Debug/net7.0/TheLawsofFreach.deps.json
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/bin/Debug/net7.0/TheLawsofFreach.runtimeconfig.json
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/bin/Debug/net7.0/TheLawsofFreach.dll
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/bin/Debug/net7.0/TheLawsofFreach.pdb
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.AssemblyInfo.cs
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.dll
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/refint/TheLawsofFreach.dll
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.pdb
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/TheLawsofFreach.genruntimeconfig.cache
+/Users/pieappleii/Projects/TheLawsofFreach/TheLawsofFreach/obj/Debug/net7.0/ref/TheLawsofFreach.dll

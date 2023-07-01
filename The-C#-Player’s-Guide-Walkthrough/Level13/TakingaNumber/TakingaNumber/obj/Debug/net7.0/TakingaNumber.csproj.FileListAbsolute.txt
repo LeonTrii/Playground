@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.AssemblyInfo.cs
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/bin/Debug/net7.0/TakingaNumber
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/bin/Debug/net7.0/TakingaNumber.deps.json
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/bin/Debug/net7.0/TakingaNumber.runtimeconfig.json
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/bin/Debug/net7.0/TakingaNumber.dll
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/bin/Debug/net7.0/TakingaNumber.pdb
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.dll
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/refint/TakingaNumber.dll
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.pdb
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/TakingaNumber.genruntimeconfig.cache
+/Users/pieappleii/Projects/TakingaNumber/TakingaNumber/obj/Debug/net7.0/ref/TakingaNumber.dll

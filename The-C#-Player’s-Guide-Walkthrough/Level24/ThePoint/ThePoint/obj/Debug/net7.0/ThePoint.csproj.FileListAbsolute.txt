@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/ThePoint/ThePoint/bin/Debug/net7.0/ThePoint
+/Users/pieappleii/Projects/ThePoint/ThePoint/bin/Debug/net7.0/ThePoint.deps.json
+/Users/pieappleii/Projects/ThePoint/ThePoint/bin/Debug/net7.0/ThePoint.runtimeconfig.json
+/Users/pieappleii/Projects/ThePoint/ThePoint/bin/Debug/net7.0/ThePoint.dll
+/Users/pieappleii/Projects/ThePoint/ThePoint/bin/Debug/net7.0/ThePoint.pdb
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.AssemblyInfo.cs
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.dll
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/refint/ThePoint.dll
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.pdb
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ThePoint.genruntimeconfig.cache
+/Users/pieappleii/Projects/ThePoint/ThePoint/obj/Debug/net7.0/ref/ThePoint.dll

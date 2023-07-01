@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/Countdown/Countdown/bin/Debug/net7.0/Countdown
+/Users/pieappleii/Projects/Countdown/Countdown/bin/Debug/net7.0/Countdown.deps.json
+/Users/pieappleii/Projects/Countdown/Countdown/bin/Debug/net7.0/Countdown.runtimeconfig.json
+/Users/pieappleii/Projects/Countdown/Countdown/bin/Debug/net7.0/Countdown.dll
+/Users/pieappleii/Projects/Countdown/Countdown/bin/Debug/net7.0/Countdown.pdb
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.AssemblyInfo.cs
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.dll
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/refint/Countdown.dll
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.pdb
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/Countdown.genruntimeconfig.cache
+/Users/pieappleii/Projects/Countdown/Countdown/obj/Debug/net7.0/ref/Countdown.dll

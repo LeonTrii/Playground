@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/bin/Debug/net7.0/LabelingInventory
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/bin/Debug/net7.0/LabelingInventory.deps.json
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/bin/Debug/net7.0/LabelingInventory.runtimeconfig.json
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/bin/Debug/net7.0/LabelingInventory.dll
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/bin/Debug/net7.0/LabelingInventory.pdb
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.AssemblyInfo.cs
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.dll
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/refint/LabelingInventory.dll
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.pdb
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/LabelingInventory.genruntimeconfig.cache
+/Users/pieappleii/Projects/LabelingInventory/LabelingInventory/obj/Debug/net7.0/ref/LabelingInventory.dll

@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/bin/Debug/net7.0/TheLockedDoor
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/bin/Debug/net7.0/TheLockedDoor.deps.json
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/bin/Debug/net7.0/TheLockedDoor.runtimeconfig.json
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/bin/Debug/net7.0/TheLockedDoor.dll
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/bin/Debug/net7.0/TheLockedDoor.pdb
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.AssemblyInfo.cs
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.dll
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/refint/TheLockedDoor.dll
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.pdb
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/TheLockedDoor.genruntimeconfig.cache
+/Users/pieappleii/Projects/TheLockedDoor/TheLockedDoor/obj/Debug/net7.0/ref/TheLockedDoor.dll

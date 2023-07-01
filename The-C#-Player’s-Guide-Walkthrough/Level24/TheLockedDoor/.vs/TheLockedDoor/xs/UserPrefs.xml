@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C09611FB-142D-42F3-93DF-B2ABB6DB427C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheLockedDoor/Program.cs">
+    <Files>
+      <File FileName="TheLockedDoor/Program.cs" Line="50" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheLockedDoor" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheLockedDoor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

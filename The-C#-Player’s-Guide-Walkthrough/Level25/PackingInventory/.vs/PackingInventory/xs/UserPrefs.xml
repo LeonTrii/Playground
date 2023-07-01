@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{351CF688-7A30-49EB-B1CB-0788A5D79571}|Default">
+  <MonoDevelop.Ide.ItemProperties.PackingInventory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PackingInventory/Program.cs">
+    <Files>
+      <File FileName="PackingInventory/Program.cs" Line="83" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PackingInventory" expanded="True">
+            <Node name="PackingInventory">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

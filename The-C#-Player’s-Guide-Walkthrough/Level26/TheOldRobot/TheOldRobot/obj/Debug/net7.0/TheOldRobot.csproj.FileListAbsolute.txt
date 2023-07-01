@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/bin/Debug/net7.0/TheOldRobot
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/bin/Debug/net7.0/TheOldRobot.deps.json
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/bin/Debug/net7.0/TheOldRobot.runtimeconfig.json
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/bin/Debug/net7.0/TheOldRobot.dll
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/bin/Debug/net7.0/TheOldRobot.pdb
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.AssemblyInfo.cs
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.dll
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/refint/TheOldRobot.dll
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.pdb
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/TheOldRobot.genruntimeconfig.cache
+/Users/pieappleii/Projects/TheOldRobot/TheOldRobot/obj/Debug/net7.0/ref/TheOldRobot.dll

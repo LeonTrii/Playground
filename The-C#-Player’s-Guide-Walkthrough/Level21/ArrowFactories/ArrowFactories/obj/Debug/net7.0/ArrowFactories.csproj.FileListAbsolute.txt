@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/bin/Debug/net7.0/ArrowFactories
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/bin/Debug/net7.0/ArrowFactories.deps.json
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/bin/Debug/net7.0/ArrowFactories.runtimeconfig.json
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/bin/Debug/net7.0/ArrowFactories.dll
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/bin/Debug/net7.0/ArrowFactories.pdb
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.AssemblyInfo.cs
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.dll
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/refint/ArrowFactories.dll
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.pdb
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ArrowFactories.genruntimeconfig.cache
+/Users/pieappleii/Projects/ArrowFactories/ArrowFactories/obj/Debug/net7.0/ref/ArrowFactories.dll

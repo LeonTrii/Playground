@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheVariableShopReturns", "TheVariableShopReturns\TheVariableShopReturns.csproj", "{05EB4805-26BD-4B58-9F4F-7DE2D8DCAADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05EB4805-26BD-4B58-9F4F-7DE2D8DCAADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EB4805-26BD-4B58-9F4F-7DE2D8DCAADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EB4805-26BD-4B58-9F4F-7DE2D8DCAADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EB4805-26BD-4B58-9F4F-7DE2D8DCAADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

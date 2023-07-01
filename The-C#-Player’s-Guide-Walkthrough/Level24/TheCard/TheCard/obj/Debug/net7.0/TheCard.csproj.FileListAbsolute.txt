@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/TheCard/TheCard/bin/Debug/net7.0/TheCard
+/Users/pieappleii/Projects/TheCard/TheCard/bin/Debug/net7.0/TheCard.deps.json
+/Users/pieappleii/Projects/TheCard/TheCard/bin/Debug/net7.0/TheCard.runtimeconfig.json
+/Users/pieappleii/Projects/TheCard/TheCard/bin/Debug/net7.0/TheCard.dll
+/Users/pieappleii/Projects/TheCard/TheCard/bin/Debug/net7.0/TheCard.pdb
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.AssemblyInfo.cs
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.dll
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/refint/TheCard.dll
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.pdb
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/TheCard.genruntimeconfig.cache
+/Users/pieappleii/Projects/TheCard/TheCard/obj/Debug/net7.0/ref/TheCard.dll

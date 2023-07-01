@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.AssemblyInfo.cs
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/bin/Debug/net7.0/RoomCoordinates
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/bin/Debug/net7.0/RoomCoordinates.deps.json
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/bin/Debug/net7.0/RoomCoordinates.runtimeconfig.json
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/bin/Debug/net7.0/RoomCoordinates.dll
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/bin/Debug/net7.0/RoomCoordinates.pdb
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.dll
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/refint/RoomCoordinates.dll
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.pdb
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/RoomCoordinates.genruntimeconfig.cache
+/Users/pieappleii/Projects/RoomCoordinates/RoomCoordinates/obj/Debug/net7.0/ref/RoomCoordinates.dll

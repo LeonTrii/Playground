@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/bin/Debug/net7.0/ThePropertiesofArrows
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/bin/Debug/net7.0/ThePropertiesofArrows.deps.json
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/bin/Debug/net7.0/ThePropertiesofArrows.runtimeconfig.json
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/bin/Debug/net7.0/ThePropertiesofArrows.dll
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/bin/Debug/net7.0/ThePropertiesofArrows.pdb
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.AssemblyInfo.cs
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.dll
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/refint/ThePropertiesofArrows.dll
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.pdb
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ThePropertiesofArrows.genruntimeconfig.cache
+/Users/pieappleii/Projects/ThePropertiesofArrows/ThePropertiesofArrows/obj/Debug/net7.0/ref/ThePropertiesofArrows.dll

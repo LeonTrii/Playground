@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/bin/Debug/net7.0/ThePrototype
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/bin/Debug/net7.0/ThePrototype.deps.json
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/bin/Debug/net7.0/ThePrototype.runtimeconfig.json
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/bin/Debug/net7.0/ThePrototype.dll
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/bin/Debug/net7.0/ThePrototype.pdb
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.AssemblyInfo.cs
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.dll
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/refint/ThePrototype.dll
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.pdb
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ThePrototype.genruntimeconfig.cache
+/Users/pieappleii/Projects/ThePrototype/ThePrototype/obj/Debug/net7.0/ref/ThePrototype.dll

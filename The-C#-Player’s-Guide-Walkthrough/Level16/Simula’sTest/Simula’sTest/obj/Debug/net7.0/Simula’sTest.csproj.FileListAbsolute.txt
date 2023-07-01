@@ -1,0 +1,15 @@
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/bin/Debug/net7.0/Simula’sTest
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/bin/Debug/net7.0/Simula’sTest.deps.json
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/bin/Debug/net7.0/Simula’sTest.runtimeconfig.json
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/bin/Debug/net7.0/Simula’sTest.dll
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/bin/Debug/net7.0/Simula’sTest.pdb
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.csproj.AssemblyReference.cache
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.AssemblyInfoInputs.cache
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.AssemblyInfo.cs
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.csproj.CoreCompileInputs.cache
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.dll
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/refint/Simula’sTest.dll
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.pdb
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/Simula’sTest.genruntimeconfig.cache
+/Users/pieappleii/Projects/Simula’sTest/Simula’sTest/obj/Debug/net7.0/ref/Simula’sTest.dll
