@@ -39,6 +39,8 @@ I've used numerous websites for learning how to code. My profiles are listed bel
 
 **SoloLearn: https://www.sololearn.com/profile/21424414**
 
+**Microsoft Learn https://learn.microsoft.com/en-us/users/truongmleon-0258/transcript**
+
 ### Old Scratch Account
 
 **https://scratch.mit.edu/users/minhleon/**
