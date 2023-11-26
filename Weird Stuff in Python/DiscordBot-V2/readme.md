@@ -1,4 +1,4 @@
-# Communist Discord Bot Documentation
+# Discord Bot Documentation
 
 The libopus.so.0.8.0 file is from https://replit.com/talk/announcements/Discord-Music-Bots-Native-Support/50173
 
