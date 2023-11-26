@@ -23,7 +23,7 @@ class MyButton(discord.ui.Button):
 
 @client.event
 async def on_ready():
-  await tree.sync(guild=discord.Object(id=770856900111761449));
+  await tree.sync(guild=discord.Object(id=1234));
   print("Bot READY");
 
 # Triggers when message is sent
@@ -55,7 +55,7 @@ async def on_message(msg):
 @tree.command(
   name="sounds", 
   description = "soundboard", 
-  guild=discord.Object(id=770856900111761449))
+  guild=discord.Object(id=1234))
 async def sounds(ctx):
   context = ctx;
   ffmpeg, ffprobe = run.get_or_fetch_platform_executables_else_raise();
