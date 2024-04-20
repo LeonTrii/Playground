@@ -51,7 +51,7 @@
   font-size: 1.7vw;
 }
 
-#contact {
+#contact-page {
   overflow-x: hidden;
   overflow-y: hidden;
 }
@@ -112,30 +112,19 @@
 }
 @media screen and (max-width: 560px) {
   #error-paragraph {
-    font-size: 3vw;
+    font-size: 3.4vw;
   }
   #board-list li {
     left: 60px;
-    font-size: 2.8vw;
+    font-size: 3.2vw;
   }
   #board-title, #error-title, #drawing-title {
-    font-size: 4.2vw !important;
+    font-size: 4.5vw !important;
   }
   #dragon {
     width: 50%;
     border: double 9px #000;
     box-shadow: rgba(119, 119, 130, 0.25) 2px 5px 20px 5px;
-  }
-}
-@media screen and (max-width: 560px) {
-  #error-paragraph {
-    font-size: 3.4vw;
-  }
-  #board-list li {
-    font-size: 3.2vw;
-  }
-  #board-title, #error-title, #drawing-title {
-    font-size: 4.5vw !important;
   }
 }
 @media screen and (max-width: 440px) {

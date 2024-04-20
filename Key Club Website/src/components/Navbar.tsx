@@ -1,6 +1,6 @@
 import logo from "/src/assets/logo.png";
 
-let active:boolean = false;
+let active: boolean = false;
 
 const load = (id: string) => {
   id !== "home" ? window.location.href = id.replace(/\s+/g, '') + ".html" : window.location.href = "/";

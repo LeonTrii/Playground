@@ -25,7 +25,7 @@ const Contact = () => {
       }, [])
       
     return (
-        <div id="contact">
+        <div id="contact-page">
             <br/>
             <h1 id="contact-title">Looking for someone?</h1>  
 
