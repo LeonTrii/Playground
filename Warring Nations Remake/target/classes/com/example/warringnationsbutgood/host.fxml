@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import java.net.URL?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.text.Text?>
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Label?>
+<StackPane styleClass="background" xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml"
+           fx:controller="com.example.warringnationsbutgood.Controller">
+
+    <stylesheets><URL value="@styles.css"/></stylesheets>
+    <ImageView>
+        <image>
+            <Image url="@./assets/background/background1.jpg" />
+        </image>
+    </ImageView>
+
+    <VBox id="settings" styleClass="titleContainer"></VBox>
+
+    <VBox fx:id="gameTitle" translateY="-255" styleClass="titleContainer">
+        <Text styleClass="title" text="Warring Nations"/>
+    </VBox>
+
+    <GridPane fx:id="settingsMenu" translateY="-30" xmlns:fx="http://javafx.com/fxml" prefHeight="200" prefWidth="320" alignment="center" hgap="10" vgap="30">
+        <Text styleClass="labels" GridPane.columnIndex="0" GridPane.rowIndex="0" text="Player Count: "/>
+
+        <VBox GridPane.columnIndex="1" GridPane.rowIndex="0">
+            <ComboBox fx:id="players" styleClass="dropdown" value="2">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="2"/>
+                        <String fx:value="3"/>
+                        <String fx:value="4"/>
+                        <String fx:value="5"/>
+                        <String fx:value="6"/>
+                        <String fx:value="7"/>
+                        <String fx:value="8"/>
+                    </FXCollections>
+                </items>
+            </ComboBox>
+        </VBox>
+
+        <Text styleClass="labels" GridPane.columnIndex="0" GridPane.rowIndex="1" text="Starting Stage: "/>
+
+        <VBox GridPane.columnIndex="1" GridPane.rowIndex="1">
+            <ComboBox fx:id="stage" styleClass="dropdown" value="Arithmetic">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="Arithmetic"/>
+                        <String fx:value="Geometry"/>
+                        <String fx:value="Algebruh"/>
+                        <String fx:value="Calculus"/>
+                        <String fx:value="Abstract"/>
+                    </FXCollections>
+                </items>
+            </ComboBox>
+        </VBox>
+
+        <Text styleClass="labels" GridPane.columnIndex="0" GridPane.rowIndex="2" text="Starting Hitpoints: "/>
+
+        <VBox GridPane.columnIndex="1" GridPane.rowIndex="2">
+            <ComboBox fx:id="hitpoints" styleClass="dropdown" value="25">
+                <items>
+                    <FXCollections fx:factory="observableArrayList">
+                        <String fx:value="10"/>
+                        <String fx:value="15"/>
+                        <String fx:value="25"/>
+                        <String fx:value="40"/>
+                        <String fx:value="50"/>
+                    </FXCollections>
+                </items>
+            </ComboBox>
+        </VBox>
+
+    </GridPane>
+
+    <GridPane visible="false" translateY="-30" id="playerInfo" alignment="center" fx:id="playerInfo" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+        <!-- Added content via Java -->
+    </GridPane>
+
+    <GridPane visible="false" translateY="-50" translateX="-100" alignment="center" fx:id="gameMenu" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+        <!-- Added content via Java -->
+    </GridPane>
+
+    <GridPane visible="false" translateX="440" translateY="-170" alignment="center" fx:id="actionMenu" prefWidth="200.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+        <!-- Added content via Java -->
+    </GridPane>
+
+
+    <GridPane visible="false" translateY="145" translateX="430" alignment="center" fx:id="player" prefHeight="320.0" prefWidth="220.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+        <VBox id="playerActions" prefHeight="280.0" prefWidth="200.0" spacing="10">
+
+            <Text fx:id="name" id="name" GridPane.rowIndex="0" GridPane.columnIndex="1">
+                <!-- Added content via Java -->
+            </Text>
+
+            <Button GridPane.rowIndex="2" GridPane.columnIndex="1" onAction="#attack" styleClass="commands">Attack</Button>
+            <Button GridPane.rowIndex="3" GridPane.columnIndex="1" onAction="#defend" styleClass="commands">Defend</Button>
+            <Button GridPane.rowIndex="4" GridPane.columnIndex="1" onAction="#mana" styleClass="commands">Mana</Button>
+            <Button GridPane.rowIndex="5" GridPane.columnIndex="1" onAction="#powerUp" styleClass="commands" id="boost">Boost</Button>
+            <Button GridPane.rowIndex="1" GridPane.columnIndex="1" onAction="#exit" styleClass="commands">Exit</Button>
+        </VBox>
+    </GridPane>
+
+    <GridPane visible="false" fx:id="chooseAttackedPlayer" id="attacking" maxWidth="120.0">
+        <!-- Added content via Java -->
+    </GridPane>
+
+    <GridPane visible="false" fx:id="stagesMenu" id="stages" translateY="705" translateX="180">
+        <Text GridPane.columnIndex="1" styleClass="arrow" text="Stages: "/>
+        <Text GridPane.columnIndex="2" id="arithmetic"> Arithmetic </Text>
+        <Text GridPane.columnIndex="3" styleClass="arrow"> -> </Text>
+        <Text GridPane.columnIndex="4" id="geometry"> Geometry </Text>
+        <Text GridPane.columnIndex="5" styleClass="arrow"> -> </Text>
+        <Text GridPane.columnIndex="6" id="algebruh"> Algebruh </Text>
+        <Text GridPane.columnIndex="7" styleClass="arrow"> -> </Text>
+        <Text GridPane.columnIndex="8" id="calculus"> Calculus </Text>
+        <Text GridPane.columnIndex="9" styleClass="arrow"> -> </Text>
+        <Text GridPane.columnIndex="10" id="abstract"> Abstract </Text>
+    </GridPane>
+
+    <Button fx:id="go" translateY="165" styleClass="menuButtons" text="Continue" onAction="#go"/>
+    <Button fx:id="lobby" translateY="275" styleClass="menuButtons" text="Back to lobby" onAction="#lobbyClick"/>
+    <Button fx:id="back" translateY="275" styleClass="menuButtons" text="Back" onAction="#back"/>
+</StackPane>
