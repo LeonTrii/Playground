@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap");
+*, *::before, *::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #fff1e9;
+}
+
+#nav {
+  z-index: 10;
+  display: flex;
+  justify-content: left;
+  list-style: none;
+  font-family: "Manrope", sans-serif;
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  width: 100%;
+  height: 8%;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
+  position: fixed;
+  top: 0;
+}
+
+.nav-btn {
+  width: 11.1111111111%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.2s;
+  background-color: #fff;
+}
+
+.nav-btn:hover {
+  background-color: #fafafa;
+  text-shadow: 6px 4px 2px rgba(0, 0, 0, 0.1);
+}
+
+#portfolio-analysis {
+  position: relative;
+  top: 100px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#portfolio-title, #portfolio-author {
+  margin: 0;
+  font-family: "Permanent Marker", cursive;
+  font-size: 3.5em;
+  width: 100%;
+  text-align: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  text-shadow: 8px 3px rgb(255, 255, 255);
+}
+
+#portfolio-author {
+  font-size: 2.5em;
+}
+
+#outline {
+  display: flex;
+  width: 100%;
+}
+
+.section-analysis {
+  width: 50%;
+  position: relative;
+  left: 120px;
+  top: 130px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4em;
+}
+
+.headers {
+  position: relative;
+  top: 10px;
+  font-size: 1.5em;
+  border-bottom: 9px #000 double;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1;
+  margin: 0;
+}
+
+p {
+  font-size: 0.9em;
+  padding: 0;
+  line-height: 1.6em;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000 !important;
+}
+
+a:focus {
+  outline: none;
+}
+
+#introduction {
+  font-family: "Fredoka One", cursive;
+}/*# sourceMappingURL=styles.css.map */

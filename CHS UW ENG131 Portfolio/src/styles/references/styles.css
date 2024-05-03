@@ -1,0 +1,53 @@
+#ref-header {
+  font-family: "Rubik Mono One", cursive;
+  text-align: center;
+  font-size: 6em;
+  margin-top: 230px;
+}
+
+.link {
+  font-size: 1.4em;
+  font-family: "Patua One", cursive;
+  color: #0000EE !important;
+  text-decoration: underline !important;
+}
+
+#files-four {
+  background-color: rgb(240, 251, 255);
+  top: 100px;
+}
+
+#conclusion-title {
+  font-family: "Fredoka One", cursive;
+  text-align: center;
+  font-size: 4em;
+  position: relative;
+  top: 200px;
+  background-color: rgb(255, 240, 240);
+  padding: 5px 10px 5px 10px;
+  width: 60%;
+  border: double 9px #000;
+  box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
+  text-shadow: 4px 3px rgb(255, 255, 255);
+  z-index: 1;
+}
+
+#context-end {
+  font-size: 1.4em;
+  font-family: "Lora", serif;
+  width: 70%;
+  position: relative;
+  top: 180px;
+  z-index: 2;
+}
+
+#rick {
+  text-decoration: underline;
+  color: #2f26e0 !important;
+}
+
+#full {
+  background-color: rgb(249, 240, 255);
+  top: 250px;
+  height: 370px;
+}/*# sourceMappingURL=styles.css.map */

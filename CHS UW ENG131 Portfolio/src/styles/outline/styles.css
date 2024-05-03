@@ -1,0 +1,213 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+*, *::before, *::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body, html {
+  overflow-x: hidden;
+  height: calc(100% + 311em);
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(#fff1e9, #ffe9f9, #fff1e9, #f0ffe9, #e9fffe, #e9efff);
+}
+
+body {
+  height: 14800px;
+}
+
+img {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  pointer-events: none;
+}
+
+#nav {
+  z-index: 10;
+  display: flex;
+  justify-content: left;
+  list-style: none;
+  font-family: "Manrope", sans-serif;
+  font-size: 1.4vw !important;
+  margin: 0;
+  padding: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px 5px rgba(108, 108, 108, 0.1);
+  position: fixed;
+  top: 0;
+}
+
+.nav-btn {
+  width: 10%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.2s;
+  background-color: #fff;
+}
+
+.nav-btn:hover {
+  background-color: #fafafa;
+  text-shadow: 6px 4px 2px rgba(0, 0, 0, 0.1);
+}
+
+#book-analysis {
+  position: relative;
+  top: 80px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#book-title, #book-author {
+  margin: 0;
+  font-family: "Permanent Marker", cursive;
+  font-size: 3.5em;
+  width: 100%;
+  text-align: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  text-shadow: 8px 3px rgb(255, 255, 255);
+}
+
+#book-author {
+  font-size: 2.5em;
+}
+
+#outline {
+  position: relative;
+  width: 100%;
+}
+
+.section-analysis {
+  width: 50%;
+  position: relative;
+  left: 120px;
+  top: 130px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4em;
+}
+
+.headers {
+  position: relative;
+  top: 10px;
+  font-size: 1.5em;
+  border-bottom: 9px #000 double;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 1;
+  margin: 0;
+}
+
+p {
+  font-size: 0.9em;
+  padding: 0;
+  line-height: 1.6em;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+#book-cover {
+  width: 50%;
+  position: relative;
+  top: 50px;
+  box-shadow: 0px 7px 17px 5px rgba(107, 107, 117, 0.2);
+}
+
+a {
+  text-decoration: none;
+  color: #000 !important;
+}
+
+a:focus {
+  outline: none;
+}
+
+#bubbles div, #colorPads div, #rectangles div, #blobs div, #ticSquares div, #layers div {
+  box-shadow: inset 5px 5px 20px 10px rgba(70, 70, 70, 0.1);
+  position: absolute;
+  height: 1000px;
+  width: 1000px;
+}
+
+#bubbles div:nth-child(1) {
+  top: 660px;
+  left: 55vw;
+  width: 150px;
+  height: 150px;
+  border-radius: 400px;
+  background: linear-gradient(#b6ffd7, #dccbfc);
+}
+
+#bubbles div:nth-child(2) {
+  top: 200px;
+  left: 55vw;
+  width: 230px;
+  height: 230px;
+  border-radius: 400px;
+  background: linear-gradient(#befdd3, #bbc9ff);
+}
+
+#bubbles div:nth-child(3) {
+  top: 300px;
+  left: 75vw;
+  width: 200px;
+  height: 200px;
+  border-radius: 400px;
+  background: linear-gradient(#d9c2ff, #a9b9fa);
+}
+
+#bubbles div:nth-child(4) {
+  top: 500px;
+  left: 65vw;
+  width: 180px;
+  height: 180px;
+  border-radius: 400px;
+  background: linear-gradient(#9caffc, #d1bdf9);
+}
+
+#bubbles div:nth-child(5) {
+  left: 65vw;
+  width: 180px;
+  height: 180px;
+  border-radius: 400px;
+  background: linear-gradient(#ffbdf7, #cab2fa);
+}
+
+#bubbles div:nth-child(6) {
+  top: 700px;
+  left: 70vw;
+  width: 250px;
+  height: 250px;
+  border-radius: 400px;
+  background: linear-gradient(#c5caff, #c0fcfd);
+}
+
+.files {
+  width: 700px;
+  height: 200px;
+  border: double 9px #000;
+  box-shadow: 7px 8px 3px 1px rgba(70, 70, 70, 0.1);
+  padding: 10px;
+  position: relative;
+}
+
+.files h2 {
+  font-family: "Fredoka One", cursive;
+  font-size: 2em;
+}
+
+.files a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2em;
+}/*# sourceMappingURL=styles.css.map */
