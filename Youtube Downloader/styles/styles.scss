@@ -1,0 +1,27 @@
+#title, #prompt, #path, #download, #link-input {
+    font-family: "Roboto";
+    color: #000;
+}
+
+#title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+#path, #download, #link-input {
+    background-color: #fafafa;
+    color: #000;
+    font-size: 30px;
+}
+
+#link-input {
+    font-size: 20px;
+}
+
+#prompt {
+    font-size: 40px;
+}
+
+#app {
+    background-color: #fafafa;
+}
