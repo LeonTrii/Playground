@@ -1,7 +1,5 @@
 # Generation Projects
 
-## It was exciting and enjoyable to play games in which items were generated.
-
 Google but good: A somewhat Google clone with a random Wikipedia article generator.
 
 Kaomojisays: Fun Cowsays like project.
