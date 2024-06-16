@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 #writing-header {
   position: relative;
-  top: 100px;
+  top: 200px;
   text-align: center;
   font-family: "Rubik Mono One", cursive;
   font-size: 9em;
@@ -80,4 +80,8 @@
 #files-three {
   background-color: rgb(255, 240, 240);
   top: 130px;
+}
+
+#files-four {
+  height: 250px;
 }/*# sourceMappingURL=styles.css.map */

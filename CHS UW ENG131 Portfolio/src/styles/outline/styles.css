@@ -7,14 +7,13 @@
 
 body, html {
   overflow-x: hidden;
-  height: calc(100% + 311em);
   margin: 0;
   padding: 0;
   background: linear-gradient(#fff1e9, #ffe9f9, #fff1e9, #f0ffe9, #e9fffe, #e9efff);
 }
 
 body {
-  height: 14800px;
+  height: 12000px !important;
 }
 
 img {
