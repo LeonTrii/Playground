@@ -1,6 +1,6 @@
 # The stuff I did during high school
 
-Hello, I started learning how to code on July 3rd, 2021. The aspect of problem solving makes it very enjoyable.
+Hello, I started learning how to code on July 3rd, 2021.
 
 I graduated from high school on June 8th, 2024, so I'll not be updating this repo anymore. It's only been about three years. Some of the code here is REALLY bad, but it's nice to see the progress.
 
