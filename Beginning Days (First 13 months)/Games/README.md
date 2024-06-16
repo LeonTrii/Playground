@@ -1,7 +1,5 @@
 # Game Projects
 
-## I really enjoyed playing games. Games in which you explore or problem solve likely played a role in my passion for programming.
-
 Connect-four: A connect four game for two players.
 
 Fridge: Fill Up the Fridge game for my final APCS project.
