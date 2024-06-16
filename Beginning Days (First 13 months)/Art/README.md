@@ -1,7 +1,5 @@
 # Art Projects 
 
-## I think art is a nice way to express things nonverbally. I picked up Blender during 2022, it's extremely fun!
-
 Frisk-and-Toriel: Created to celebrate Deltarune Chapter 2. Although Frisk is not in Deltarune, I thought it was close enough. View it here: https://codepen.io/LeonTrii/pen/jOzQWLW 
 
 Kirby-animation: Waving Kirby with a beating heart on his left hand. View it here: https://truongmleon.github.io/
