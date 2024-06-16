@@ -1,0 +1,53 @@
+#outcome-two {
+  text-align: center;
+  font-size: 6em;
+  font-family: "Rubik Mono One", cursive;
+  position: relative;
+  top: 400px;
+}
+
+#message-header-one {
+  text-align: center;
+  font-size: 10em;
+  font-family: "Rubik Mono One", cursive;
+  position: relative;
+  top: 230px;
+}
+
+.lead-in {
+  text-align: center;
+  font-size: 2em;
+  font-family: "Manrope", sans-serif;
+  position: relative;
+  top: 90px;
+}
+
+#four {
+  top: 0px !important;
+}
+
+.subtlety-header {
+  font-family: "Fredoka One", cursive;
+  position: relative;
+  width: 90%;
+  left: 50px;
+  top: 90px;
+  font-size: 2em;
+  border-bottom: 3px solid #000;
+  overflow: hidden;
+}
+
+.subtlety-text {
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  top: 70px;
+  width: 90%;
+  left: 50px;
+  font-size: 1.2em;
+  overflow: hidden;
+}
+
+#files-two {
+  background-color: rgb(255, 255, 240);
+  top: 100px;
+}/*# sourceMappingURL=styles.css.map */

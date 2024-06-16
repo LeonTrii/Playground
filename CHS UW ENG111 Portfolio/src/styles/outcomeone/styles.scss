@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Manrope:wght@700&family=Montserrat:ital@0;1&family=Permanent+Marker&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+$manrope: 'Manrope', sans-serif;
+$montserrat: 'Montserrat', sans-serif;
+$roboto: 'Roboto Mono', monospace;
+$title: 'Permanent Marker', cursive;
+$lexend: "Lexend Deca", sans-serif;
+
+#outcome-one-title {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 4em;
+    position: relative;
+    top: 400px;
+    background-color: rgb(255, 251, 240);
+    padding: 5px 10px 5px 10px;
+    width: 60%; 
+    border: double 9px #000;
+    box-shadow: 5px 5px 10px 5px rgba(120, 120, 120, 0.1);
+    text-shadow: 4px 3px rgb(255, 255, 255);
+    z-index: 1;
+}
+
+#context {
+    font-size: 1.4em;
+    font-family: 'Lora', serif;
+    width: 70%;
+    position: relative;
+    top: 400px;
+    z-index: 2;
+}
+
+#colorPads div {
+    transition: .8s;
+    z-index: 0;
+}
+
+#colorPads div:nth-child(1) {
+    width: 200px;
+    height: 200px;
+    transform: rotate(-30deg) skew(-28deg);
+    background: linear-gradient(45deg, #ffbdf7, #cab2fa);
+    filter: hue-rotate(48.39deg);
+    top: 960px;
+    left: 5vw;
+}
+
+#colorPads div:nth-child(2) {
+    width: 160px;
+    height: 160px;
+    left: 19vw;
+    top: 1280px;
+    transform: rotate(30deg) skew(28deg);
+    background: linear-gradient(45deg, #d9f9ff, #d0baf9);
+}
+
+#colorPads div:nth-child(3) {
+    width: 160px;
+    height: 160px;
+    left: 62vw;
+    top: 980px;
+    transform: rotate(30deg) skew(-28deg);
+    background: linear-gradient(45deg, #9caffc, #d1bdf9);
+    filter: hue-rotate(48.39deg);
+}
+
+#colorPads div:nth-child(4) {
+    width: 180px;
+    height: 180px;
+    left: 68vw;
+    top: 1180px;
+    transform: rotate(10deg) skew(-28deg);
+    background: linear-gradient(45deg, #c5caff, #c0fcfd);
+    filter: hue-rotate(48.39deg);
+}
+
+#colorPads div:nth-child(5) {
+    width: 130px;
+    height: 130px;
+    left: 45vw;
+    top: 1500px;
+    transform: rotate(10deg) skew(28deg);
+    background: linear-gradient(45deg, #beecfd, #bbffd4);
+}
+
+#colorPads div:nth-child(6) {
+    width: 130px;
+    height: 130px;
+    left: 40vw;
+    top: 850px;
+    transform: rotate(10deg) skew(48deg);
+    background: linear-gradient(45deg, #bed4fd, #bbfdff);
+}
+
+#colorPads div:nth-child(7) {
+    width: 130px;
+    height: 130px;
+    left: 50vw;
+    top: 1300px;
+    transform: rotate(10deg) skew(-18deg);
+    background: linear-gradient(45deg, #befdfa, #c1ffbb);
+}
+
+#colorPads div:nth-child(8) {
+    width: 160px;
+    height: 160px;
+    left: 70vw;
+    top: 1500px;
+    transform: rotate(60deg) skew(18deg);
+    background: linear-gradient(45deg, #fdbef6, #ffbbbb);
+}
+
+#colorPads div:nth-child(9) {
+    width: 160px;
+    height: 160px;
+    left: 5vw;
+    top: 1700px;
+    transform: rotate(20deg) skew(18deg);
+    background: linear-gradient(45deg, #fdbebe, #ffe4bb);
+}
+
+#colorPads div:nth-child(10) {
+    width: 190px;
+    height: 190px;
+    left: 15vw;
+    top: 1500px;
+    transform: rotate(20deg) skew(-48deg);
+    background: linear-gradient(45deg, #fcbefd, #ffbbbb);
+}
+
+.outcome-titles {
+    font-size: 1.2em;
+}
+
+#files-one {
+    top: 420px;
+    background-color: rgb(249, 240, 255);
+}
