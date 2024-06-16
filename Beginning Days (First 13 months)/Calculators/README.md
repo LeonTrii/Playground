@@ -1,7 +1,5 @@
 # Calculator Projects
 
-## Math and science are my favorite subjects. I love computing and learning more about STEM!
-
 Banking: A small program that can deposit and withdraw money. Has a few other features.
 
 Calculator: A simple calculator that does arithmetic. View it here: https://codepen.io/LeonTrii/pen/RwZYGWw
