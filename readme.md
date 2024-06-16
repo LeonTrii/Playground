@@ -26,7 +26,6 @@ npm run dev
 
 I've used numerous websites for learning how to code. My profiles are listed below.
 
-### Learning
 **Udemy: https://www.udemy.com/user/leon-truong-7/**
 
 **Codecademy: https://www.codecademy.com/profiles/truongmleon**
