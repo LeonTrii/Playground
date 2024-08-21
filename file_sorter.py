@@ -12,7 +12,7 @@ def main():
     
     path = str(Path.home() / "Downloads") #/ is operation for Path objs
     dir_list = os.listdir(path)
-    organizer_path = path + "/ORGANIZER";
+    organizer_path = path + "/ORGANIZER"
     
     if (not os.path.exists(organizer_path)):
         os.makedirs(organizer_path)
