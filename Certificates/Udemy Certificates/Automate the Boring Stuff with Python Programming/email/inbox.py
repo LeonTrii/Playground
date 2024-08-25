@@ -3,7 +3,7 @@ import imapclient, pyzmail;
 password = open('pass.txt','r').read();
 
 connect = imapclient.IMAPClient('imap.gmail.com', ssl = True);
-connect.login('leonkeyclub1@gmail.com', password);
+connect.login('', password);
 connect.select_folder('INBOX', readonly = True);
 #IDs = connect.search(["SINCE 28-Aug-2023"]); error?
 
