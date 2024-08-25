@@ -58,7 +58,7 @@ class YoutubeDownloader(QtWidgets.QWidget): #extends QWidget
             return
         
         link = self.link_input.text()
-        yt = Playlist(link);
+        yt = Playlist(link)
         
         try:
             for video in yt.videos:
